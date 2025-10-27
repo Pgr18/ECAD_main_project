@@ -15,10 +15,12 @@ jobs:
       with:
         # So we can run a diff between last 2 changes
         fetch-depth: '0'
-
+# kibot --quick-start
     - name: Quick Start
       run: |
-        kibot --quick-start
+        mkdir prod
+        cd prod
+        kicad-cli pcb export gerbers ./../ECAD_main/ECAD_main.kicad_pcb --layers  B.Cu --output  ./prod
 
     - name: Retrieve results
       uses: actions/upload-artifact@v4
