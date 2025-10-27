@@ -1,4 +1,4 @@
-26636367985172847
+26734527907158336
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -61347,13 +61347,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-ECAD_lib
-RES_0603
-
-
-0
-2
-2
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -106259,3 +106252,409 @@ Varistor VF
 0
 2
 2
+zpc-lib
+2EDGL-5.08-02P
+JST NV series connector, B02P-NV (http://www.jst-mfg.com/product/pdf/eng/eNV.pdf), generated with kicad-footprint-generator
+connector JST NV side entry
+0
+2
+2
+zpc-lib
+2EDGR-5.0-02P
+JST NV series connector, B02P-NV (http://www.jst-mfg.com/product/pdf/eng/eNV.pdf), generated with kicad-footprint-generator
+connector JST NV side entry
+0
+2
+2
+zpc-lib
+15EDGLC-3.5-03P
+Generic Phoenix Contact connector footprint for: MC_1,5/3-G-3.5; number of pins: 03; pin pitch: 3.50mm; Angled || order number: 1844223 8A 160V
+phoenix_contact connector MC_01x03_G_3.5mm
+0
+3
+3
+zpc-lib
+15EDGRHC-THR-3.5-16P
+
+
+0
+16
+16
+zpc-lib
+15EDGRHD-3.5-16P_Horizontal_THT
+
+
+0
+16
+16
+zpc-lib
+15EDGRHD-3.5-20P_Horizontal_THT
+
+
+0
+20
+20
+zpc-lib
+CDRH5D28NP
+Choke, SMD, 6.3x6.3mm 3mm height
+Choke SMD
+0
+2
+2
+zpc-lib
+CONFL_SY_TESPOINTS_QR
+
+
+0
+0
+0
+zpc-lib
+CONV_PCN1-S5-S15-S
+
+
+0
+4
+4
+zpc-lib
+CONV_PDM2-S24-D3-S
+
+
+0
+5
+5
+zpc-lib
+CONV_PEM2-S12-D12-S
+
+
+0
+5
+5
+zpc-lib
+CPFC805
+
+
+0
+4
+4
+zpc-lib
+DG141R-2.54-02P
+Terminal Block Wago 233-502, 2 pins, pitch 2.54 mm,  https://www.wago.com/de/leiterplattenanschluss/klemmenleiste-fuer-leiterplatten/p/233-502
+THT
+0
+4
+2
+zpc-lib
+DG141R-2.54-08P
+Terminal Block Wago 233-502, 2 pins, pitch 2.54 mm,  https://www.wago.com/de/leiterplattenanschluss/klemmenleiste-fuer-leiterplatten/p/233-502
+THT
+0
+16
+8
+zpc-lib
+DG212R-THR-3.5-02P
+DEGSON ELECTRONICS DG246 terminal block, https://www.degson.com/index.php?a=downloadFile&id=1090277
+connector terminal block
+0
+4
+2
+zpc-lib
+DIO_BPW34
+
+
+0
+2
+2
+zpc-lib
+DS201b
+DC Power Jack, 13A, 24V, Panel Mount,Through-hole, https://www.switchcraft.com/Drawings/RAPC10U_CD.pdf
+barreljack switchcraftconxall dc power
+0
+2
+2
+zpc-lib
+Driver pcb
+
+
+0
+20
+20
+zpc-lib
+GOSHA
+
+
+0
+0
+0
+zpc-lib
+IF_S-1WR3
+XP_POWER  ITxxxxxS, SIP, (https://www.xppower.com/portals/0/pdfs/SF_ITX.pdf https://www.xppower.com/portals/0/pdfs/SF_ITQ.pdf), generated with kicad-footprint-generator
+XP_POWER  ITxxxxxS SIP DCDC-Converter
+0
+4
+4
+zpc-lib
+IND_LQH66SN6R8M03L
+
+
+0
+2
+2
+zpc-lib
+K12T-20A
+
+
+0
+6
+6
+zpc-lib
+K78xx-2000R3
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
+zpc-lib
+K78xxMT-500R4
+
+
+0
+6
+6
+zpc-lib
+KLS7-TS6606-13.0
+tactile switch, 7.3mm x 6.25mm  x 7.4mm, right angle, https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3f.pdf
+tactile switch Omron B3F right angle through hole
+0
+4
+2
+zpc-lib
+KLS12-108-8P8C
+Shielded, 2 LED, https://www.amphenolcanada.com/ProductSearch/drawings/AC/RJHSE538X.pdf
+RJ45 8p8c ethernet cat5
+0
+14
+13
+zpc-lib
+LED_VSMY2850RG
+
+
+0
+2
+2
+zpc-lib
+NX3225GD
+SMD Crystal FC-135 https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-135R_en.pdf
+SMD SMT Crystal
+0
+2
+2
+zpc-lib
+OZON TECH LOGO
+
+
+0
+0
+0
+zpc-lib
+OZON_TECH_LOGO
+
+
+0
+0
+0
+zpc-lib
+QFN-24
+
+
+0
+0
+0
+zpc-lib
+QFN50P300X300X80-17N
+
+
+0
+17
+17
+zpc-lib
+QFN50P300X300X80-17N-D
+CP-16-22 16-Lead LFCSP
+Integrated Circuit
+0
+17
+17
+zpc-lib
+QFN50P500X500X100-33N-D
+32- PIN QFN_2024
+Integrated Circuit
+0
+33
+33
+zpc-lib
+QFP50P900X900X160-48N
+LQFP48
+Integrated Circuit
+0
+48
+48
+zpc-lib
+RES_0603
+
+
+0
+2
+2
+zpc-lib
+RES_1206
+
+
+0
+2
+2
+zpc-lib
+RV_Disc_D7mm_W3.4mm_P5mm
+Varistor, diameter 7mm, width 3.4mm, pitch 5mm
+varistor SIOV
+0
+2
+2
+zpc-lib
+SFFF logo
+
+
+0
+0
+0
+zpc-lib
+SO-8_unversal_mem
+
+
+0
+8
+8
+zpc-lib
+SOD3716X135N
+
+
+0
+2
+2
+zpc-lib
+SOIC-8NB
+
+
+0
+8
+8
+zpc-lib
+SOIC127P600X175-8N
+so-8/
+Integrated Circuit
+0
+8
+8
+zpc-lib
+SOP-8
+
+
+0
+8
+8
+zpc-lib
+SOP-8L_3.9x4.9mm_P1.27mm
+SOP, 8 Pin (http://www.macronix.com/Lists/Datasheet/Attachments/7534/MX25R3235F,%20Wide%20Range,%2032Mb,%20v1.6.pdf#page=79), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOP SO
+0
+8
+8
+zpc-lib
+SOP50P490X110-17N
+LT6372HMSE-1#PBF
+Integrated Circuit
+0
+17
+17
+zpc-lib
+SOP65P490X110-9N
+DGN0008D-1
+Integrated Circuit
+0
+9
+9
+zpc-lib
+SOT95P280X100-5N
+TSOT-23 5, 6, 8 lead-2
+Integrated Circuit
+0
+5
+5
+zpc-lib
+SOT95P280X145-5N
+DBV0005A
+Integrated Circuit
+0
+5
+5
+zpc-lib
+TL082IDT
+
+
+0
+8
+8
+zpc-lib
+TSSOP24E
+
+
+0
+25
+25
+zpc-lib
+ULN2803
+
+
+0
+18
+18
+zpc-lib
+VS2MSOP-10-A_TPK
+
+TPC5160-VS2R 
+0
+10
+10
+zpc-lib
+VS2MSOP-10-A_TPK-L
+
+TPC5160-VS2R 
+0
+10
+10
+zpc-lib
+VS2MSOP-10-A_TPK-M
+
+TPC5160-VS2R 
+0
+10
+10
+zpc-lib
+edge_earth
+
+
+0
+20
+1
+zpc-lib
+fs-x6b
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+2
+1
+zpc-lib
+ozon_test
+
+
+0
+0
+0
