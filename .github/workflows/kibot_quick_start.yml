@@ -26,31 +26,31 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: Automatic_outputs
-        path: Generated
-
+        path: prod
+# Generated
   # This step is to upload the results to another repo (web pages)
-  deploy:
-    runs-on: ubuntu-latest
-    needs: quick
+#  deploy:
+#    runs-on: ubuntu-latest
+#    needs: quick
 
-    steps:
-    - uses: actions/checkout@v4
+#    steps:
+#    - uses: actions/checkout@v4
 
-    - name: Retrieve results
-      uses: actions/download-artifact@v4
-      with:
-        name: Automatic_outputs
-        path: Generated
+#    - name: Retrieve results
+#      uses: actions/download-artifact@v4
+#      with:
+#        name: Automatic_outputs
+#        path: Generated
 
-    - name: Disable Jekyll
+#    - name: Disable Jekyll
       # Jekyll will filter the KiRi folders
-      run: |
-        touch Generated/.nojekyll
+#      run: |
+ #       touch Generated/.nojekyll
 
-    - name: Deploy navigate results
-      uses: JamesIves/github-pages-deploy-action@v4
-      with:
-        branch: Generated
-        folder: Generated
-        repository-name: Pgr18/ECAD_main_project
-        token: ${{ secrets.GITHUB_TOKEN }}
+#    - name: Deploy navigate results
+#      uses: JamesIves/github-pages-deploy-action@v4
+#      with:
+#        branch: Generated
+#        folder: Generated
+#        repository-name: Pgr18/ECAD_main_project
+#        token: ${{ secrets.GITHUB_TOKEN }}
