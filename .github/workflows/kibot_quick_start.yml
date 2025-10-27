@@ -20,7 +20,7 @@ jobs:
       run: |
         mkdir prod
         cd prod
-        kicad-cli pcb export gerbers ./../ECAD_main/ECAD_main.kicad_pcb --layers  B.Cu --output  ./prod
+        kicad-cli pcb export gerbers ./../Browse/ECAD_main.kicad_pcb --layers  B.Cu --output  ./prod
 
     - name: Retrieve results
       uses: actions/upload-artifact@v4
