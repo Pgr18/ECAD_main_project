@@ -48,7 +48,7 @@ jobs:
     - name: Deploy navigate results
       uses: JamesIves/github-pages-deploy-action@v4
       with:
-        branch: main
+        branch: Generated
         folder: Generated
         repository-name: Pgr18/ECAD_main_project
         token: ${{ secrets.GITHUB_TOKEN }}
