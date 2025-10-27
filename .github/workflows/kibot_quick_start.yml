@@ -50,5 +50,5 @@ jobs:
       with:
         branch: main
         folder: Generated
-        repository-name: INTI-CMNB/kibot_variants_arduprog_site
+        repository-name: Pgr18/ECAD_main_project
         token: ${{ secrets.TOKEN }}
