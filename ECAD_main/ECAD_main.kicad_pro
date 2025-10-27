@@ -601,96 +601,7 @@
       "version": 4
     },
     "net_colors": null,
-    "netclass_assignments": {
-      "+15AVDD": [
-        "POWER_ANALOG"
-      ],
-      "-15AVDD": [
-        "POWER_ANALOG"
-      ],
-      "-2V5": [
-        "POWER_ANALOG"
-      ],
-      "/Power/+12V_POWER": [
-        "POWER_BIG_IN",
-        "POWER_DIGITAL_BIG"
-      ],
-      "/Power/+15V_POWER": [
-        "POWER_ANALOG"
-      ],
-      "/Power/-15V_POWER": [
-        "POWER_ANALOG"
-      ],
-      "/Power/PWR_BUT": [
-        "POWER_BIG_IN"
-      ],
-      "/Power/PWR_IN": [
-        "POWER_BIG_IN"
-      ],
-      "/Power/PWR_In": [
-        "POWER_BIG_IN"
-      ],
-      "/Power/PWR_prot": [
-        "POWER_BIG_IN"
-      ],
-      "/Power/Pow1": [
-        "POWER_BIG_IN"
-      ],
-      "/power/+12V_POWER": [
-        "POWER_BIG_IN"
-      ],
-      "/power/PWR_BUT": [
-        "POWER_BIG_IN"
-      ],
-      "/power/PWR_In": [
-        "POWER_BIG_IN"
-      ],
-      "/power/PWR_prot": [
-        "POWER_BIG_IN"
-      ],
-      "/power/Pow1": [
-        "POWER_BIG_IN"
-      ],
-      "2V5": [
-        "POWER_ANALOG"
-      ],
-      "3V3": [
-        "POWER_DIGITAL"
-      ],
-      "3V3AVDD": [
-        "POWER_ANALOG"
-      ],
-      "5AVDD": [
-        "POWER_ANALOG"
-      ],
-      "Net-(D1-A)": [
-        "POWER_BIG_IN"
-      ],
-      "Net-(D1-K)": [
-        "POWER_BIG_IN"
-      ],
-      "Net-(D5-K)": [
-        "POWER_BIG_IN"
-      ],
-      "Net-(D9-+Vo)": [
-        "POWER_DIGITAL"
-      ],
-      "Net-(IC13-EN)": [
-        "POWER_ANALOG"
-      ],
-      "Net-(U2-+VO)": [
-        "POWER_BIG_IN"
-      ],
-      "Net-(U2-VIN)": [
-        "POWER_BIG_IN"
-      ],
-      "Net-(U3-VIN)": [
-        "POWER_BIG_IN"
-      ],
-      "Net-(U4-+VIN)": [
-        "POWER_BIG_IN"
-      ]
-    },
+    "netclass_assignments": null,
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -815,7 +726,7 @@
     ],
     [
       "a214530c-1c75-449e-bc21-0b85a4d9b1f5",
-      "power"
+      "Power"
     ]
   ],
   "text_variables": {}

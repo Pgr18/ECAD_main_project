@@ -2913,12 +2913,6 @@
 		(uuid "996c6c25-593a-4047-9fed-ef68ec21245e")
 	)
 	(junction
-		(at 271.78 53.34)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "99fff144-ac99-4bd1-827b-162b772b1cfa")
-	)
-	(junction
 		(at 284.48 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3216,7 +3210,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.78 53.34) (xy 278.13 53.34)
+			(xy 267.97 53.34) (xy 278.13 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3873,16 +3867,6 @@
 			(type default)
 		)
 		(uuid "dbd79490-04c8-4e95-81c7-3e608b343e8a")
-	)
-	(wire
-		(pts
-			(xy 267.97 53.34) (xy 271.78 53.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e4316e21-5eea-4c1f-80bc-db51bdc56877")
 	)
 	(wire
 		(pts
@@ -5407,72 +5391,6 @@
 			(project "AFE_V3"
 				(path "/e9ffbb94-33e2-4158-ac4a-a33b17b122cf"
 					(reference "C4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 271.78 53.34 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7bb1665b-26ed-45fa-a64c-18c42fde4d1d")
-		(property "Reference" "#FLG04"
-			(at 271.78 55.245 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 271.78 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 271.78 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 271.78 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 271.78 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "65b4aef3-fb80-4607-9009-ced817be68a1")
-		)
-		(instances
-			(project ""
-				(path "/e9ffbb94-33e2-4158-ac4a-a33b17b122cf"
-					(reference "#FLG04")
 					(unit 1)
 				)
 			)
@@ -7589,7 +7507,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "a214530c-1c75-449e-bc21-0b85a4d9b1f5")
-		(property "Sheetname" "power"
+		(property "Sheetname" "Power"
 			(at 292.1 175.8184 0)
 			(effects
 				(font
@@ -7598,7 +7516,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "power.kicad_sch"
+		(property "Sheetfile" "Power.kicad_sch"
 			(at 292.1 192.3546 0)
 			(effects
 				(font
