@@ -1,0 +1,1145 @@
+<!DOCTYPE html>
+<html xml:lang="en" lang="en">
+<head>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="canonical" href="https://www.nexperia.com/404" />
+<link rel="alternate" href="http://www.nexperia.cn/404?query=/documents/data-sheet/BT138_SER_D_E.pdf" hreflang="zh-CN" />
+<title>404 page | Nexperia</title>
+<meta property="og:locale" content="en">
+<meta property="og:type" content="website" />
+<meta property="og:title" content="404 page" />
+<meta property="og:description" content="" />
+<meta property="og:url" content="https://www.nexperia.com/404" />
+<meta property="og:site_name" content="Nexperia" />
+<link rel="apple-touch-icon" sizes="180x180" href="/.resources/nexperia-theme/images/favicon/apple-touch-icon.png" />
+<link rel="icon" type="image/png" href="/.resources/nexperia-theme/images/favicon/favicon-32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/.resources/nexperia-theme/images/favicon/favicon-16x16.png" sizes="16x16" />
+<link rel="manifest" href="/.resources/nexperia-theme/images/favicon/manifest.json">
+<link rel="mask-icon" href="/.resources/nexperia-theme/images/favicon/safari-pinned-tab.svg" color="#5bbad5" />
+<link rel="stylesheet" type="text/css" href="/.resources/nexperia-theme/styles/styles~2025-09-18-11-00-27-000~cache.css" media="all" />
+<script type="application/javascript">
+var metaData = [];
+metaData['locale'] = "en";
+metaData['defaultLocale'] = "en";
+metaData['fallbackLocale'] = "en";
+metaData['contextPath'] = "";
+metaData['assetPath'] = "https://assets.nexperia.com";
+metaData['efficiencyWinsBasePath'] = "https://efficiencywins.nexperia.com"
+metaData['apiCalculatorUrl'] = "https://api.nexperia.com";
+metaData['apiMyUrl'] = "https://my.nexperia.com";
+metaData['apiImdsUrl'] = "https://imds.nexperia.com";
+metaData['linkPrefix'] = "";
+metaData['specialEvent'] = false;
+window.contextPath = "";
+</script>
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "Organization",
+"url": "http://www.nexperia.com",
+"logo": "http://www.nexperia.com/.resources/nexperia-theme/images/logo.png",
+"email": "info@nexperia.com",
+"numberOfEmployees": 11000,
+"foundingDate": "2017-02",
+"address" : {
+"@type" : "PostalAddress",
+"streetAddress" : "Jonkerbosplein 52",
+"addressLocality" : "Nijmegen",
+"addressCountry" : "The Netherlands",
+"postalCode" : "6534 AB"
+}
+}
+</script>
+<script type="application/ld+json">
+{
+"@context": "http://schema.org",
+"@type": "WebSite",
+"name": "Nexperia",
+"url": "http://www.nexperia.com",
+"potentialAction": {
+"@type": "SearchAction",
+"target": "http://www.nexperia.com/search.html?q={q}",
+"query-input": {
+"@type": "PropertyValueSpecification",
+"valueRequired": true,
+"valueName": "q"
+}
+}
+}
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MV3687F');
+</script>
+<!-- End Google Tag Manager -->
+
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("True"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="DYVAA-5CNDP-79SW9-DK8XF-THMQX",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"DYVAA-5CNDP-79SW9-DK8XF-THMQX";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="vs4nh5axzpmcy2h72tkq-f-9efff5f78-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"547057","ak.ai":parseInt("340437",10),"ak.ol":"0","ak.cr":16,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"275bf1af","ak.r":47256,"ak.a2":n,"ak.m":"dscb","ak.n":"essl","ak.bpcip":"172.184.211.0","ak.cport":62337,"ak.gh":"23.214.94.91","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1761596629","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==GZE0EHxrl/1n3EH0sgpXLnWXR7O9uuHJMQWaNKUjOcj0oLX7ejuebxmSLpfrC3jZmraL+OCwOhl3QnZ020XPtXw7fWcxW//BYVbwuYAThiJVwhNbRdDCaWI9joDuvkM/N3FftV2GQ8dQSAN8CkW0+hAfsFlWX5OQyFJWIHc8l8dskly6WYShoJXXRsQfN5qRzH+wQiD8NYJsu0S0bloY74ilyueCE0xbhttFCpNtfAToIDt3c7fzK46WpTG1OWq50h+cbGh4houfhisB2uQmmYprLuFCrMboqFqEpjQrvHc0EzhsHiFfhzWzENO63sOgXus+sDZCccM81RMLtXKMRgkZvT98ekmQAqq+6TvY5fDf6R/Lhgx8OQWnmXmG6hE7VueP0H89RFcgo1NmQXa9SzK/Ch9mHV9fc/zv9Ant4/k=","ak.pv":"204","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+<body id="page-404" class="one-column">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MV3687F" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- Google Tag Manager (noscript) -->
+<nex-i18n-host locale="en">
+<nex-migration-host>
+<div class="header-container">
+<nex-header>
+<nex-logo slot="logo" home-link="/"></nex-logo>
+<ul class="main" slot="main">
+<li class="has-children">
+<a href="/products" class="trigger-sub" role="button" aria-haspopup="true" aria-expanded="false">
+Products
+</a>
+<div class="sub">
+<div class="container">
+<div class="sub-wrapper">
+<ul>
+<li class="active" data-default >
+<a href="/products/all-products" data-target="b1933594-f9cc-4cb1-ba79-580dc1331bbf">All products</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="b1933594-f9cc-4cb1-ba79-580dc1331bbf" data-default>
+<h3><a href="/products/all-products">
+All products
+</a>
+</h3>
+<p>Discover Nexperia&rsquo;s extensive portfolio of diodes, bipolar transistors, ESD protection devices, MOSFETs, GaN FETs, IGBTs, and analog &amp; logic ICs. Our components power virtually every electronic design worldwide - from automotive and industrial to mobile and consumer applications.</p>
+<p><a class="btn btn-orange" href="https://www.nexperia.com/products">All products</a></p>
+</div>
+<ul class="level-two__links">
+</ul>
+</div>
+</li>
+<li >
+<a href="/products/bipolar-transistors" data-target="81e8f9ea-3974-4c74-b2fa-346bbb36c0bb">Bipolar transistors</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="81e8f9ea-3974-4c74-b2fa-346bbb36c0bb">
+<h3><a href="/products/bipolar-transistors">
+<i class="icon bipolar"></i>
+Bipolar transistors
+</a>
+</h3>
+</div>
+<ul class="level-two__links">
+<li><a class="level-two__links-anchor" href="/products/bipolar-transistors/special-feature-transistors">Special feature transistors</a></li>
+<li><a class="level-two__links-anchor" href="/products/bipolar-transistors/3-terminal-adjustable-shunt-regulators">3-terminal adjustable shunt regulators</a></li>
+<li><a class="level-two__links-anchor" href="/products/bipolar-transistors/general-purpose-and-low-vcesat-bipolar-transistors">General purpose and low VCEsat bipolar transistors</a></li>
+<li><a class="level-two__links-anchor" href="/products/bipolar-transistors/resistor-equipped-transistors-rets">Resistor Equipped Transistors (RETs)</a></li>
+<li><a class="level-two__links-anchor" href="/products/bipolar-transistors/led-driver-constant-current-source">LED driver / Constant current source</a></li>
+</ul>
+</div>
+</li>
+<li >
+<a href="/products/diodes" data-target="846ea7fc-7b1f-41d6-8306-e761fc81273d">Diodes</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="846ea7fc-7b1f-41d6-8306-e761fc81273d">
+<h3><a href="/products/diodes">
+<i class="icon diodes"></i>
+Diodes
+</a>
+</h3>
+</div>
+<ul class="level-two__links">
+<li><a class="level-two__links-anchor" href="/products/diodes/automotive-diodes">Automotive diodes</a></li>
+<li><a class="level-two__links-anchor" href="/products/diodes/zener-diodes">Zener diodes</a></li>
+<li><a class="level-two__links-anchor" href="/products/diodes/switching-diodes">Switching diodes</a></li>
+<li><a class="level-two__links-anchor" href="/products/diodes/silicon-carbide-sic-schottky-diodes">Silicon Carbide (SiC) Schottky diodes</a></li>
+<li><a class="level-two__links-anchor" href="/products/diodes/schottky-diodes-and-rectifiers">Schottky diodes and rectifiers</a></li>
+<li><a class="level-two__links-anchor" href="/products/diodes/recovery-rectifiers">Recovery rectifiers</a></li>
+</ul>
+</div>
+</li>
+<li >
+<a href="/products/esd-protection-tvs-filtering-and-signal-conditioning" data-target="2c88752b-e7d0-4894-8fa4-573492714359">ESD protection, TVS, signal conditioning</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="2c88752b-e7d0-4894-8fa4-573492714359">
+<h3><a href="/products/esd-protection-tvs-filtering-and-signal-conditioning">
+<i class="icon a"></i>
+ESD protection, TVS, signal conditioning
+</a>
+</h3>
+</div>
+<ul class="level-two__links">
+<li><a class="level-two__links-anchor" href="/products/esd-protection-tvs-filtering-and-signal-conditioning/automotive-esd-protection-and-tvs">Automotive ESD protection and TVS</a></li>
+<li><a class="level-two__links-anchor" href="/products/esd-protection-tvs-filtering-and-signal-conditioning/esd-protection">ESD protection</a></li>
+<li><a class="level-two__links-anchor" href="/products/esd-protection-tvs-filtering-and-signal-conditioning/emi-solutions-with-integrated-protection">EMI solutions with integrated protection</a></li>
+<li><a class="level-two__links-anchor" href="/products/esd-protection-tvs-filtering-and-signal-conditioning/transient-voltage-suppressors-tvs">Transient Voltage Suppressors (TVS)</a></li>
+</ul>
+</div>
+</li>
+<li >
+<a href="/products/mosfets" data-target="b6c3ef72-6f49-469c-87eb-5fa7fb8f15b7">MOSFETs</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="b6c3ef72-6f49-469c-87eb-5fa7fb8f15b7">
+<h3><a href="/products/mosfets">
+<i class="icon mosfet"></i>
+MOSFETs
+</a>
+</h3>
+</div>
+<ul class="level-two__links">
+<li><a class="level-two__links-anchor" href="/products/mosfets/automotive-mosfets">Automotive MOSFETs</a></li>
+<li><a class="level-two__links-anchor" href="/products/mosfets/power-mosfets">Power MOSFETs</a></li>
+<li><a class="level-two__links-anchor" href="/products/mosfets/small-signal-mosfets">Small signal MOSFETs</a></li>
+<li><a class="level-two__links-anchor" href="/products/mosfets/application-specific-mosfets">Application Specific MOSFETs</a></li>
+</ul>
+</div>
+</li>
+<li >
+<a href="/products/sic-mosfets" data-target="021f84f5-4a84-4095-accf-408099f0a719">SiC MOSFETs</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="021f84f5-4a84-4095-accf-408099f0a719">
+<h3><a href="/products/sic-mosfets">
+<i class="icon sic-mosfets"></i>
+SiC MOSFETs
+</a>
+</h3>
+<ul>
+<li><a href="https://www.nexperia.com/products/sic-mosfets/NSF030120D7A0.html">NSF030120D7A0</a></li>
+<li><a href="https://www.nexperia.com/products/sic-mosfets/NSF030120L3A0.html">NSF030120L3A0</a></li>
+<li><a href="https://www.nexperia.com/products/sic-mosfets/NSF030120L4A0.html">NSF030120L4A0</a></li>
+<li><a href="https://www.nexperia.com/products/sic-mosfets/NSF040120D7A0.html">NSF040120D7A0</a></li>
+<li><a href="https://www.nexperia.com/products/sic-mosfets/NSF040120L3A0.html">NSF040120L3A0</a></li>
+<li><a href="https://www.nexperia.com/products/sic-mosfets/NSF040120L4A0.html">NSF040120L4A0</a></li>
+<li><a href="https://www.nexperia.com/products/sic-mosfets/NSF060120D7A0.html">NSF060120D7A0</a></li>
+<li><a href="https://www.nexperia.com/products/sic-mosfets/NSF060120L3A0.html">NSF060120L3A0</a></li>
+<li><a href="https://www.nexperia.com/products/sic-mosfets/NSF060120L4A0.html">NSF060120L4A0</a></li>
+<li><a href="https://www.nexperia.com/products/sic-mosfets/NSF080120D7A0.html">NSF080120D7A0</a></li>
+<li><a href="https://www.nexperia.com/products/sic-mosfets/NSF080120L3A0.html">NSF080120L3A0</a></li>
+<li><a href="https://www.nexperia.com/products/sic-mosfets/NSF080120L4A0.html">NSF080120L4A0</a></li>
+</ul>
+</div>
+<ul class="level-two__links">
+</ul>
+</div>
+</li>
+<li >
+<a href="/products/gan-fets" data-target="ebdba28d-bece-4a29-a01a-71b1dd0e555a">GaN FETs</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="ebdba28d-bece-4a29-a01a-71b1dd0e555a">
+<h3><a href="/products/gan-fets">
+<i class="icon gan-fets"></i>
+GaN FETs
+</a>
+</h3>
+</div>
+<ul class="level-two__links">
+<li><a class="level-two__links-anchor" href="/products/gan-fets/low-voltage-e-mode-gan-fets">Low voltage e-mode GaN FETs</a></li>
+<li><a class="level-two__links-anchor" href="/products/gan-fets/650-v-e-mode-gan-fets">650 V e-mode GaN FETs</a></li>
+<li><a class="level-two__links-anchor" href="/products/gan-fets/bi-directional-gan-fets">Bi-directional GaN FETs</a></li>
+<li><a class="level-two__links-anchor" href="/products/gan-fets/650-v-cascode-gan-fets">650 V cascode GaN FETs</a></li>
+</ul>
+</div>
+</li>
+<li >
+<a href="/products/igbt-discretes" data-target="c1e7e25f-cde0-498c-a54a-0ea5aac04bcd">IGBTs</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="c1e7e25f-cde0-498c-a54a-0ea5aac04bcd">
+<h3><a href="/products/igbt-discretes">
+<i class="icon IGBTs"></i>
+IGBTs
+</a>
+</h3>
+<p>&nbsp;</p>
+<ul>
+<li><a href="https://www.nexperia.com/product/NGB30T65M3DFP">NGB30T65M3DFP&nbsp;</a></li>
+<li><a href="https://www.nexperia.com/product/NGW30T65M3DFP" title="https://www.nexperia.com/product/NGW30T65M3DFP">NGW30T65M3DFP</a></li>
+<li><a href="https://www.nexperia.com/product/NGW40T65H3DFP" title="https://www.nexperia.com/product/NGW40T65H3DFP">NGW40T65H3DFP</a></li>
+<li><a href="https://www.nexperia.com/product/NGW40T65H3DHP" title="https://www.nexperia.com/product/NGW40T65H3DHP">NGW40T65H3DHP</a></li>
+<li><a href="https://www.nexperia.com/product/NGW40T65M3DFP" title="https://www.nexperia.com/product/NGW40T65M3DFP">NGW40T65M3DFP</a></li>
+<li><a href="https://www.nexperia.com/product/NGW50T65H3DFP" title="https://www.nexperia.com/product/NGW50T65H3DFP">NGW50T65H3DFP</a></li>
+<li><a href="https://www.nexperia.com/product/NGW50T65M3DFP" title="https://www.nexperia.com/product/NGW50T65M3DFP">NGW50T65M3DFP</a></li>
+<li><a href="https://www.nexperia.com/product/NGW60T65M3DFP" title="https://www.nexperia.com/product/NGW60T65M3DFP">NGW60T65M3DFP</a></li>
+<li><a href="https://www.nexperia.com/product/NGW75T65H3DF" title="https://www.nexperia.com/product/NGW75T65H3DF">NGW75T65H3DF</a></li>
+<li><a href="https://www.nexperia.com/product/NGW75T65H3DFP" title="https://www.nexperia.com/product/NGW75T65H3DFP">NGW75T65H3DFP</a></li>
+<li><a href="https://www.nexperia.com/product/NGW75T65M3DFP" title="https://www.nexperia.com/product/NGW75T65M3DFP">NGW75T65M3DFP</a></li>
+<li><a href="https://www.nexperia.com/pip/NGFP15T65M3DFP">NGFP15T65M3DFP</a></li>
+<li><a href="https://www.nexperia.com/product/NGB15T65M3DFP">NGB15T65M3DFP</a></li>
+</ul>
+<p>&nbsp;</p>
+</div>
+<ul class="level-two__links">
+</ul>
+</div>
+</li>
+<li >
+<a href="/products/analog-logic-ics" data-target="f06e1a96-b965-40b8-b551-3472b0d17882">Analog &amp; Logic ICs</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="f06e1a96-b965-40b8-b551-3472b0d17882">
+<h3><a href="/products/analog-logic-ics">
+<i class="icon a"></i>
+Analog &amp; Logic ICs
+</a>
+</h3>
+</div>
+<ul class="level-two__links">
+<li><a class="level-two__links-anchor" href="/products/analog-logic-ics/analog-switches-and-multiplexers">Analog switches and multiplexers</a></li>
+<li><a class="level-two__links-anchor" href="/products/analog-logic-ics/logic">Logic</a></li>
+<li><a class="level-two__links-anchor" href="/products/analog-logic-ics/isolation">Isolation</a></li>
+<li><a class="level-two__links-anchor" href="/products/analog-logic-ics/power-management">Power Management</a></li>
+<li><a class="level-two__links-anchor" href="/products/analog-logic-ics/voltage-translators-level-shifters">Voltage translators (level-shifters)</a></li>
+<li><a class="level-two__links-anchor" href="/products/analog-logic-ics/interface">Interface</a></li>
+</ul>
+</div>
+</li>
+<li >
+<a href="/products/automotive-qualified-products-aec-q100-q101" data-target="d5159296-0237-4ba6-98f1-27e124b75bf0">Automotive</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="d5159296-0237-4ba6-98f1-27e124b75bf0">
+<h3><a href="/products/automotive-qualified-products-aec-q100-q101">
+<i class="icon x-car"></i>
+Automotive
+</a>
+</h3>
+</div>
+<ul class="level-two__links">
+<li><a class="level-two__links-anchor" href="/products/automotive-qualified-products-aec-q100-q101/automotive-bipolar-transistors">Automotive bipolar transistors</a></li>
+<li><a class="level-two__links-anchor" href="/products/automotive-qualified-products-aec-q100-q101/automotive-diodes">Automotive diodes</a></li>
+<li><a class="level-two__links-anchor" href="/products/automotive-qualified-products-aec-q100-q101/automotive-esd-protection-and-tvs">Automotive ESD protection and TVS</a></li>
+<li><a class="level-two__links-anchor" href="/products/automotive-qualified-products-aec-q100-q101/automotive-mosfets0">Automotive MOSFETs</a></li>
+<li><a class="level-two__links-anchor" href="/products/automotive-qualified-products-aec-q100-q101/automotive-logic">Automotive logic</a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div class="sub-wrapper__close">
+<nex-icon name="close" size="medium"></nex-icon>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="has-children">
+<a href="/applications" class="trigger-sub" role="button" aria-haspopup="true" aria-expanded="false">
+Applications
+</a>
+<div class="sub">
+<div class="container">
+<div class="sub-wrapper">
+<ul>
+<li class="active" data-default >
+<a href="/applications/all-applications" data-target="a815d620-fdd3-4baa-9867-c5b10cb34137">All applications</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="a815d620-fdd3-4baa-9867-c5b10cb34137" data-default>
+<h3><a href="/applications/all-applications">
+All applications
+</a>
+</h3>
+<p>Our products find applications across various industries, from automotive and industrial to power, computing, consumer, mobile, and wearables. With a commitment to innovation and sustainability, our components set benchmarks in efficiency, empowering our global customer base to develop energy-efficient and cutting-edge solutions.</p>
+<p><a class="btn btn-orange" href="https://www.nexperia.com/applications">All applications</a></p>
+</div>
+<ul class="level-two__links">
+</ul>
+</div>
+</li>
+<li >
+<a href="/applications/automotive" data-target="37a532ef-483c-448d-928b-2a49711128fe">Automotive </a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="37a532ef-483c-448d-928b-2a49711128fe">
+<h3><a href="/applications/automotive">
+<i class="icon x-pip-car"></i>
+Automotive
+</a>
+</h3>
+<ul>
+<li><strong>Advanced Driver Assistance Systems (ADAS)</strong><br />
+<a href="https://www.nexperia.com/applications/automotive/adas-lidar-systems">ADAS LiDAR systems</a> <a href="https://www.nexperia.com/applications/automotive/adas-front-rear-camera-systems">ADAS front / rear camera systems</a> <a href="https://www.nexperia.com/applications/automotive/adas-radar-sensor-module">ADAS radar sensor module</a>&nbsp;</li>
+<li><strong>Body Control &amp; Lighting</strong><br />
+<a href="https://www.nexperia.com/applications/automotive/adaptive-front-led-lights">Adaptive Front LED lights</a><a href="https://www.nexperia.com/applications/automotive/automatic-hvac-bldc-blower-motor">Automatic HVAC - BLDC blower motor</a><a href="https://www.nexperia.com/applications/automotive/constant-current-source-for-interior-led-lighting">Constant current source for interior LED lighting</a>&nbsp;</li>
+<li><strong>Centralized Architecture</strong><br />
+<a href="https://www.nexperia.com/applications/automotive/in-vehicle-network-protection">In-Vehicle Network (CAN FD / LIN / FlexRay / Ethernet) protection</a><a href="https://www.nexperia.com/applications/automotive/zone-control-units">Zone Control Units (ZCU)</a>&nbsp;</li>
+<li><strong>Chassis &amp; Safety</strong><br />
+<a href="https://www.nexperia.com/applications/automotive/airbag-controller-with-safing-mosfet">Airbag controller with Safing MOSFET</a><a href="https://www.nexperia.com/applications/automotive/anti-locking-braking-systems">Anti-locking braking systems (ABS/ESC)</a><a href="https://www.nexperia.com/applications/automotive/electronic-power-steering">Electronic (Electric) Power Steering (EPS)</a>&nbsp;</li>
+<li><strong>Conventional Powertrain</strong><br />
+<a href="https://www.nexperia.com/applications/automotive/cooling-fan">Cooling Fan</a><a href="https://www.nexperia.com/applications/automotive/electronic-fuel-injection">Electronic Fuel Injection</a><a href="https://www.nexperia.com/applications/automotive/fluid-pump-12v">Fluid pump (12 V)</a>&nbsp;</li>
+<li><strong>Electrification (xEV powertrain)</strong><br />
+<a href="https://www.nexperia.com/applications/automotive/48-v-battery-management-system--bms">48 V Battery Management System (BMS)</a><a href="https://www.nexperia.com/applications/automotive/high-voltage-traction-inverter">High-voltage traction inverter</a><a href="https://www.nexperia.com/applications/automotive/inverter-for-aux-and-e-compressor">Inverter for aux. and e-compressor</a><a href="https://www.nexperia.com/applications/automotive/on-board-charger-obc">On-Board Charger (OBC)</a>&nbsp;</li>
+<li><strong>Infotainment &amp; Telematics</strong><br />
+<a href="https://www.nexperia.com/applications/automotive/led-backlight-for-touchscreens-and-cameras">LED backlight for touchscreens and cameras</a><a href="https://www.nexperia.com/applications/automotive/multimedia--infotainment-bus-protection">Multimedia infotainment bus protection</a><a href="https://www.nexperia.com/applications/automotive/high-power--high-efficiency-dc-dc-converter">High power, high efficiency DC/DC converter</a><a href="https://www.nexperia.com/applications/automotive/step-down-dc-dc-converter">Step-down DC/DC converter</a>&nbsp;<br />
+&nbsp;<br />
+&nbsp;</li>
+</ul>
+</div>
+<ul class="level-two__links">
+</ul>
+</div>
+</li>
+<li >
+<a href="/applications/industrial-and-power" data-target="7edd4c4f-15ce-470f-96ff-8248053c204a">Industrial and Power</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="7edd4c4f-15ce-470f-96ff-8248053c204a">
+<h3><a href="/applications/industrial-and-power">
+<i class="icon x-app-industrial"></i>
+Industrial and Power
+</a>
+</h3>
+</div>
+<ul class="level-two__links">
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/collaborative-robots-cobots">Collaborative robots (cobots)</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/electric-forklift-truck">Electric forklift truck</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/light-electric-vehicle-lev">Light Electric Vehicle (LEV)</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/factory-automation">Factory Automation and Industry 4.0</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/hvac-air-conditioning">HVAC (Air conditioning) </a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/smart-electricity-e-meter">Smart electricity e-meter</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/fluid-pump-control">Fluid Pump Control</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/intelligent-outdoor-street-lighting">Intelligent outdoor street lighting</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/ac-ev-wallbox">AC EV wallbox</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/dc-ev-charging-station">DC EV charging station</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/hybrid-solar-inverter">Hybrid solar inverter</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/micro-solar-inverter">Micro solar inverter</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/photovoltaic-string-inverter"> Photovoltaic string inverter</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/residential-battery-energy-storage-system">Residential battery energy storage system</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/industrial-power-supply-units">Industrial Power Supply Units (PSUs)</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/48v-12v-dc-dc-conversion">48/12 V DC/DC conversion (Telecoms / Server)</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/5G-macro-micro-cell-power-supplies">5G marco / micro-cell power supplies</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/hot-swap-comms-infrastructure">Hot swap for communications infrastructure</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/uninterruptible-power-supply">Uninterruptible Power Supply (UPS)</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/cordless-power-tools">Cordless power tools</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/electronic-shelf-label">Electronic shelf label (ESL)</a></li>
+<li><a class="level-two__links-anchor" href="/applications/industrial-and-power/PSE-PoE">Power Sourcing Equipment / Power over Ethernet</a></li>
+</ul>
+</div>
+</li>
+<li >
+<a href="/applications/mobile" data-target="0bad2723-a2e0-44ec-be49-3e49fcbe542c">Mobile and Wearables</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="0bad2723-a2e0-44ec-be49-3e49fcbe542c">
+<h3><a href="/applications/mobile">
+<i class="icon x-app-mobile"></i>
+Mobile and Wearables
+</a>
+</h3>
+</div>
+<ul class="level-two__links">
+<li><a class="level-two__links-anchor" href="/applications/mobile/ar-vr-glasses">AR / VR glasses</a></li>
+<li><a class="level-two__links-anchor" href="/applications/mobile/earbuds">True Wireless Stereo (TWS) earbuds</a></li>
+<li><a class="level-two__links-anchor" href="/applications/mobile/gps-tracker">GPS tracker</a></li>
+<li><a class="level-two__links-anchor" href="/applications/mobile/Smartwatch-fitness-tracker">Smartwatch / fitness tracker</a></li>
+<li><a class="level-two__links-anchor" href="/applications/mobile/usb-type-c-pd-charger-adaptor">USB Type-C AC/DC charger / adaptor (240 W)</a></li>
+<li><a class="level-two__links-anchor" href="/applications/mobile/usb-type-c-smartphone">Smartphone</a></li>
+<li><a class="level-two__links-anchor" href="/applications/mobile/Wired-and-wireless-fast-charging">Wired and wireless fast charging</a></li>
+</ul>
+</div>
+</li>
+<li >
+<a href="/applications/computing-and-consumer" data-target="a5bca5c8-f2c8-417e-96f4-97841b81dffc">Computing and Consumer</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="a5bca5c8-f2c8-417e-96f4-97841b81dffc">
+<h3><a href="/applications/computing-and-consumer">
+<i class="icon x-app-consumer"></i>
+Computing and Consumer
+</a>
+</h3>
+</div>
+<ul class="level-two__links">
+<li><a class="level-two__links-anchor" href="/applications/computing-and-consumer/e-bike">E-Bike</a></li>
+<li><a class="level-two__links-anchor" href="/applications/computing-and-consumer/energy-harvesting-smart-building-sensors">Energy harvesting smart building sensors</a></li>
+<li><a class="level-two__links-anchor" href="/applications/computing-and-consumer/high-performance-rack-blade-server">High performance computing / Server</a></li>
+<li><a class="level-two__links-anchor" href="/applications/computing-and-consumer/hot-swap-blade-server">Hot swap for blade server</a></li>
+<li><a class="level-two__links-anchor" href="/applications/computing-and-consumer/medical-diagnostics-and-therapy">Medical diagnostics and therapy</a></li>
+<li><a class="level-two__links-anchor" href="/applications/computing-and-consumer/residential-heat-pump">Residential heat pump</a></li>
+<li><a class="level-two__links-anchor" href="/applications/computing-and-consumer/robot-vacuum-cleaner">Robot vacuum cleaner </a></li>
+<li><a class="level-two__links-anchor" href="/applications/computing-and-consumer/self-charging-remote-control">Self-charging Remote Control</a></li>
+<li><a class="level-two__links-anchor" href="/applications/computing-and-consumer/smoke-fire-detector">Smoke / Fire detector</a></li>
+<li><a class="level-two__links-anchor" href="/applications/computing-and-consumer/solid-state-disc">Solid-state drive (SSD)</a></li>
+<li><a class="level-two__links-anchor" href="/applications/computing-and-consumer/unmanned-aerial-vehicles">Unmanned aerial vehicles (UAVs)</a></li>
+<li><a class="level-two__links-anchor" href="/applications/computing-and-consumer/washing-machine-dishwasher">Washing machine / Dishwasher</a></li>
+<li><a class="level-two__links-anchor" href="/applications/computing-and-consumer/ultra-wide-band-key-fob">Ultra Wide Band (UWB) key fob </a></li>
+</ul>
+</div>
+</li>
+<li >
+<a href="/applications/sub-systems-power-topology" data-target="fc59da54-b4bd-4514-868f-edff8b0ce6a6">Sub-systems: Power conversion topologies</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="fc59da54-b4bd-4514-868f-edff8b0ce6a6">
+<h3><a href="/applications/sub-systems-power-topology">
+<i class="icon x-app-subsystem"></i>
+Sub-systems: Power conversion topologies
+</a>
+</h3>
+</div>
+<ul class="level-two__links">
+<li><a class="level-two__links-anchor" href="/applications/sub-systems-power-topology/acdc-conversion-linear-non-isolated">Non-Isolated AC/DC Linear power supply</a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems-power-topology/acdc-conversion-pfc-totem-pole">Power Factor Corrector (PFC) totem pole</a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems-power-topology/acdc-conversion-three-phase-vienna-rectifier">Three-phase Vienna rectifier</a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems-power-topology/dcdc-conversion-buck">DC/DC Buck</a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems-power-topology/dcdc-conversion-boost">DC/DC Boost</a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems-power-topology/dcdc-conversion-buck-boost">DC/DC Buck Boost</a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems-power-topology/dcdc-conversion-flyback">DC/DC Flyback</a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems-power-topology/dcdc-conversion-resonant-llc">DC/DC Resonant LLC</a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems-power-topology/dcdc-conversion-mcu-core-supply">DC/DC conversion for MCU core supply</a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems-power-topology/dcdc-conversion-sepic">Single-ended primary-inductor converter (SEPIC)</a></li>
+</ul>
+</div>
+</li>
+<li >
+<a href="/applications/sub-systems" data-target="859463f4-16c4-4722-b094-a75423b202ed">Sub-systems: General</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="859463f4-16c4-4722-b094-a75423b202ed">
+<h3><a href="/applications/sub-systems">
+<i class="icon x-app-subsystem"></i>
+Sub-systems: General
+</a>
+</h3>
+</div>
+<ul class="level-two__links">
+<li><a class="level-two__links-anchor" href="/applications/sub-systems/antenna-protection">Antenna protection (NFC / Bluetooth)</a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems/constant-current-source">Constant current source</a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems/i2c-voltage-translation-repeaters">I2C voltage translation </a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems/solenoid-driver">Solenoid driver</a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems/usb-type-c-connectors">USB Type-C connectivity</a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems/USB4-connectivity-and-compatibility">USB4 connectivity and compatibility  </a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems/battery-powered-bldc-motor-control">Battery-powered motor control drive (25-100 V)</a></li>
+<li><a class="level-two__links-anchor" href="/applications/sub-systems/servo-motor-drive">Servo motor drive</a></li>
+</ul>
+</div>
+</li>
+<li >
+<a href="/applications/reference-designs" data-target="a0ad9343-e700-4e59-9a98-cb6cb5dbaab4">Reference designs</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="a0ad9343-e700-4e59-9a98-cb6cb5dbaab4">
+<h3><a href="/applications/reference-designs">
+<i class="icon x-app-ref-designs"></i>
+Reference designs
+</a>
+</h3>
+</div>
+<ul class="level-two__links">
+<li><a class="level-two__links-anchor" href="/applications/reference-designs/nexperia-h-bridge-motor-controller-power-supply-circuit">Nexperia H-bridge motor controller power supply circuit</a></li>
+<li><a class="level-two__links-anchor" href="/applications/reference-designs/nexperia-discrete-h-bridge-motor-controller-request-form">Nexperia discrete H-bridge motor controller - request form</a></li>
+<li><a class="level-two__links-anchor" href="/applications/reference-designs/Sustainable-Power-Unit">Sustainable Power Unit </a></li>
+<li><a class="level-two__links-anchor" href="/applications/reference-designs/allegro-apek85110knh-05-t-mh">Allegro AHV85110 evaluation board</a></li>
+<li><a class="level-two__links-anchor" href="/applications/reference-designs/Ambiq-harvestKIT--AMA3BHARV1">Ambiq harvestKIT™ AMA3BHARV1</a></li>
+<li><a class="level-two__links-anchor" href="/applications/reference-designs/analog-devices-eval-ltc4286-a1z-hotswap-">Analog Devices EVAL-LTC4286-A1Z Hotswap</a></li>
+<li><a class="level-two__links-anchor" href="/applications/reference-designs/analog-devices-eval-ltc4287-54-v--72-a-hotswap">Analog Devices EVAL-LTC4287 54 V, 72 A Hotswap</a></li>
+<li><a class="level-two__links-anchor" href="/applications/reference-designs/broadcom-gan039-650nbb-half-bridge-evaluation-board">Broadcom GAN039-650NBB half bridge evaluation board</a></li>
+<li><a class="level-two__links-anchor" href="/applications/reference-designs/microchip-48-to-12v-power-conversion">Microchip MIC2129 48-to-12 V power conversion</a></li>
+<li><a class="level-two__links-anchor" href="/applications/reference-designs/nxp-aslxxxxshn-headlight-evaluation-board-">NXP ASLxxxxSHN headlight evaluation board</a></li>
+<li><a class="level-two__links-anchor" href="/applications/reference-designs/nxp-fs23-functional-safety">NXP FS23 Functional Safety</a></li>
+<li><a class="level-two__links-anchor" href="/applications/reference-designs/NXP-FS86-Functional-safety">NXP FS86 Functional safety</a></li>
+<li><a class="level-two__links-anchor" href="/applications/reference-designs/NXP-FS85-Functional-safety">NXP FS85 Functional safety</a></li>
+<li><a class="level-two__links-anchor" href="/applications/reference-designs/ti-pmp23496-8kw-hot-swap">TI PMP23496 8 kW Hotswap</a></li>
+</ul>
+</div>
+</li>
+<li >
+<a href="/applications/evaluation-boards" data-target="346e9e67-db79-48aa-b760-3637e2f9e4fa">Evaluation boards</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="346e9e67-db79-48aa-b760-3637e2f9e4fa">
+<h3><a href="/applications/evaluation-boards">
+Evaluation boards
+</a>
+</h3>
+<p>Try out&nbsp;our devices and their performance with our comprehensive range of evaluation boards. Gain a deeper understanding of how our products can benefit your application, whether it&#39;s optimizing for efficiency, robustness, or reliability. You can find Application focus, Package focus, and different Nexperia Product focus boards here.</p>
+<p><a class="btn btn-orange" href="/applications/evaluation-boards">All evaluation boards</a></p>
+</div>
+<ul class="level-two__links">
+</ul>
+</div>
+</li>
+<li >
+<a href="/applications/interactive-app-notes" data-target="c9759127-0875-4c78-9fc7-8d5abaaf076f">Interactive application notes</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="c9759127-0875-4c78-9fc7-8d5abaaf076f">
+<h3><a href="/applications/interactive-app-notes">
+<i class="icon x-car"></i>
+Interactive application notes
+</a>
+</h3>
+</div>
+<ul class="level-two__links">
+<li><a class="level-two__links-anchor" href="/applications/interactive-app-notes/Interactive-application-notes-tutorial">Tutorial</a></li>
+<li><a class="level-two__links-anchor" href="/applications/interactive-app-notes/IAN50001_automotive-reverse-battery-protection">IAN50001 - Reverse battery protection in automotive applications</a></li>
+<li><a class="level-two__links-anchor" href="/applications/interactive-app-notes/IAN50002_sepic-dcdc-converter">IAN50002 - LED side light SEPIC DC-to-DC converter</a></li>
+<li><a class="level-two__links-anchor" href="/applications/interactive-app-notes/IAN50003_driving-automotive-solenoids">IAN50003 - Driving solenoids in automotive applications</a></li>
+<li><a class="level-two__links-anchor" href="/applications/interactive-app-notes/IAN50004_using-power-MOSFETs-in-DC-motor-control-applications">IAN50004 - Using power MOSFETs in DC motor control applications</a></li>
+<li><a class="level-two__links-anchor" href="/applications/interactive-app-notes/IAN50005_paralleling_MOSFETs_in_high_power_applications">IAN50005 - Paralleling power MOSFETs in high power applications</a></li>
+<li><a class="level-two__links-anchor" href="/applications/interactive-app-notes/IAN50006_Power_MOSFETs_in_linear_mode">IAN50006 - Power MOSFETs in linear mode</a></li>
+<li><a class="level-two__links-anchor" href="/applications/interactive-app-notes/IAN50007_Conducted_battery_line_transients">IAN50007 - Conducted battery line transients</a></li>
+<li><a class="level-two__links-anchor" href="/applications/interactive-app-notes/IAN50009_Power_MOSFET_applications_in_automotive_BLDC_and_PMSM_drives">IAN50009 - Power MOSFET applications in automotive BLDC and PMSM drives</a></li>
+<li><a class="level-two__links-anchor" href="/applications/interactive-app-notes/IAN50012_Nexperia_Precision_Electrothermal_models_for_Power_MOSFETs">IAN50012 - Nexperia Precision Electrothermal models for Power MOSFETs</a></li>
+<li><a class="level-two__links-anchor" href="/applications/interactive-app-notes/IAN50016_MOSFETs_for_airbag_applications">IAN50016 - MOSFETs for airbag applications</a></li>
+<li><a class="level-two__links-anchor" href="/documentation-center.html?searchSubcategory=application_note_user_manual_paper">Application notes</a></li>
+<li><a class="level-two__links-anchor" href="/applications/interactive-app-notes/IAN50017_Multiphase-machines-in-automotive-applications">IAN50017 - Multiphase machines for automotive applications</a></li>
+<li><a class="level-two__links-anchor" href="/applications/interactive-app-notes/IAN50019_Power_MOSFET_thermal_boundary_conditions_study">IAN50019 - Thermal boundary condition study on MOSFET packages and PCB substrates</a></li>
+<li><a class="level-two__links-anchor" href="/applications/interactive-app-notes/IAN50020_Power_Switch_MOSFETs">IAN50020 - MOSFETs in Power Switch applications</a></li>
+</ul>
+</div>
+</li>
+<li >
+<a href="/applications/advanced-support-tools" data-target="28e3dd76-64e9-4841-a581-39fb4a40ea55">Advanced Support Tools</a>
+<div class="sub-content">
+<div class="level-two__entry level-two__entry--active" data-uuid="28e3dd76-64e9-4841-a581-39fb4a40ea55">
+<h3><a href="/applications/advanced-support-tools">
+Advanced Support Tools
+</a>
+</h3>
+</div>
+<ul class="level-two__links">
+<li><a class="level-two__links-anchor" href="/interactive-datasheet">Interactive Datasheets</a></li>
+<li><a class="level-two__links-anchor" href="https://www.nexperia.com/applications/advanced-support-tools.html#chapter-chapter2">Electrothermal MOSFET models</a></li>
+<li><a class="level-two__links-anchor" href="https://www.nexperia.com/applications/advanced-support-tools.html#chapter-chapter3">Quick Learning Videos</a></li>
+<li><a class="level-two__links-anchor" href="/applications/advanced-support-tools/bldc-sinusoidal">MOSFET selector for BLDC Motor (sinusoidal) application</a></li>
+<li><a class="level-two__links-anchor" href="/applications/advanced-support-tools/bldc-trapezoidal">MOSFET selector for BLDC Motor (trapezoidal) application</a></li>
+<li><a class="level-two__links-anchor" href="/applications/advanced-support-tools/boost-dc-dc">MOSFET selector for Synchronous Boost DC-DC converter application</a></li>
+<li><a class="level-two__links-anchor" href="/applications/advanced-support-tools/buck-dc-dc">MOSFET selector for Synchronous Buck DC-DC converter application</a></li>
+<li><a class="level-two__links-anchor" href="/applications/advanced-support-tools/MOSFET-selector-for-Synchronous-SEPIC-DC-DC-converter-application">MOSFET selector for Synchronous SEPIC DC-DC converter application</a></li>
+<li><a class="level-two__links-anchor" href="/applications/advanced-support-tools/energy-balance-calculator">Light Energy Harvesting - Energy Balance Calculator</a></li>
+<li><a class="level-two__links-anchor" href="https://www.nexperia.com/applications/advanced-support-tools.html#chapter-chapter4">Interactive application notes</a></li>
+<li><a class="level-two__links-anchor" href="https://www.nexperia.com/applications/advanced-support-tools.html#chapter-nexperia-handbook-library">Nexperia Handbook Library</a></li>
+<li><a class="level-two__links-anchor" href="https://www.nexperia.com/applications/advanced-support-tools.html#chapter-application-guide">Application Guide</a></li>
+<li><a class="level-two__links-anchor" href="https://www.nexperia.com/applications/advanced-support-tools#chapter-evaluation-boards">Evaluation Boards</a></li>
+</ul>
+</div>
+</li>
+</ul>
+<div class="sub-wrapper__close">
+<nex-icon name="close" size="medium"></nex-icon>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li class="">
+<a href="/quality" >
+Quality
+</a>
+</li>
+<li class="">
+<a href="/support" >
+Support
+</a>
+</li>
+<li class="">
+<a href="/shop" >
+Shop
+</a>
+</li>
+<li class="">
+<a href="/careers" >
+Careers
+</a>
+</li>
+<li class="">
+<a href="/about" >
+About
+</a>
+</li>
+<li class="">
+<a href="/news" >
+News
+</a>
+</li>
+<li class="">
+<a target="_blank" rel="noreferrer noopener" href="https://efficiencywins.nexperia.com" >
+Blogs
+</a>
+</li>
+<li class="mobile-only tool">
+<nex-shopping-bag link="#">Shopping bag</nex-shopping-bag>
+</li>
+<li class="mobile-only">
+<nex-language-switch localized-link="http://www.nexperia.cn/404?query=/documents/data-sheet/BT138_SER_D_E.pdf" localeName="中文 (中国)" display-name="中文"></nex-language-switch>
+</li>
+</ul>
+<ul class="tools" slot="tools">
+<li>
+<nex-search-toggle></nex-search-toggle>
+</li>
+<li class="tablet-up-only">
+<nex-shopping-bag link="#"></nex-shopping-bag>
+</li>
+<li>
+<nex-theme-toggle></nex-theme-toggle>
+</li>
+<li>
+</li>
+<li class="tablet-up-only">
+<nex-language-switch localized-link="http://www.nexperia.cn/404?query=/documents/data-sheet/BT138_SER_D_E.pdf" localeName="中文 (中国)" display-name="中文"></nex-language-switch>
+</li>
+<li class="mobile-only">
+<nex-menu-toggle></nex-menu-toggle>
+</li>
+</ul>
+</nex-header>
+<nex-search-bar q="" search-page="/search" xref-page="/cross-multiple-parts" class="hidden-print">
+<div slot="parametrics">
+<div class="nex-search-bar__parametrics-list">
+<h3>Bipolar transistors</h3>
+<ul class="list-nexperia-subnav">
+<li>
+<a href="#" class="not-active">Special feature transistors</a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/bipolar-transistors/special-feature-transistors/darlington-transistors#t:parametrics">Darlington transistors<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/bipolar-transistors/special-feature-transistors/low-noise-transistors#t:parametrics">Low noise transistors<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/bipolar-transistors/special-feature-transistors/matched-pair-transistors#t:parametrics">Matched pair transistors<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/bipolar-transistors/special-feature-transistors/mosfet-driver-transistors#t:parametrics">MOSFET driver transistors<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/bipolar-transistors/special-feature-transistors/medium-frequency-transistors#t:parametrics">Medium frequency transistors<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/bipolar-transistors/special-feature-transistors/schmitt-trigger-transistors#t:parametrics">Schmitt trigger transistors<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/bipolar-transistors/special-feature-transistors/low-vcesat-biss-transistors-load-switches#t:parametrics">Low VCEsat (BISS) transistors load switches<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/bipolar-transistors/special-feature-transistors/low-vcesat-biss-transistors-pnp-n-channel-mosfet-combination#t:parametrics">Low VCEsat (BISS) transistors PNP - N-channel MOSFET combination<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+<li>
+<a href="/products/bipolar-transistors/3-terminal-adjustable-shunt-regulators#t:parametrics">3-terminal adjustable shunt regulators<i class="x-parametric pull-right"></i></a>
+</li>
+<li>
+<a href="#" class="not-active">General purpose and low VCEsat bipolar transistors</a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/bipolar-transistors/general-purpose-and-low-vcesat-bipolar-transistors/double-bipolar-transistors#t:parametrics">Double bipolar transistors<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/bipolar-transistors/general-purpose-and-low-vcesat-bipolar-transistors/single-bipolar-transistors#t:parametrics">Single bipolar transistors<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+<li>
+<a href="/products/bipolar-transistors/resistor-equipped-transistors-rets#t:parametrics">Resistor Equipped Transistors (RETs)<i class="x-parametric pull-right"></i></a>
+</li>
+<li>
+<a href="/products/bipolar-transistors/led-driver-constant-current-source#t:parametrics">LED driver / Constant current source<i class="x-parametric pull-right"></i></a>
+</li>
+</ul>
+<h3>Diodes</h3>
+<ul class="list-nexperia-subnav">
+<li>
+<a href="#" class="not-active">Automotive diodes</a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/diodes/automotive-diodes/automotive-zener-diodes#t:parametrics">Automotive Zener diodes<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/diodes/automotive-diodes/automotive-switching-diodes#t:parametrics">Automotive switching diodes<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/diodes/automotive-diodes/automotive-schottky-diodes-and-rectifiers#t:parametrics">Automotive Schottky diodes and rectifiers<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/diodes/automotive-diodes/automotive-recovery-rectifiers#t:parametrics">Automotive recovery rectifiers<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+<li>
+<a href="/products/diodes/zener-diodes#t:parametrics">Zener diodes<i class="x-parametric pull-right"></i></a>
+</li>
+<li>
+<a href="/products/diodes/switching-diodes#t:parametrics">Switching diodes<i class="x-parametric pull-right"></i></a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/diodes/switching-diodes/general-purpose-switching-diodes#t:parametrics">General purpose switching diodes<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/diodes/switching-diodes/controlled-avalanche-switching-diodes#t:parametrics">Controlled avalanche switching diodes<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/diodes/switching-diodes/low-leakage-current-switching-diodes#t:parametrics">Low leakage current switching diodes<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+<li>
+<a href="/products/diodes/silicon-carbide-sic-schottky-diodes#t:parametrics">Silicon Carbide (SiC) Schottky diodes<i class="x-parametric pull-right"></i></a>
+</li>
+<li>
+<a href="/products/diodes/schottky-diodes-and-rectifiers#t:parametrics">Schottky diodes and rectifiers<i class="x-parametric pull-right"></i></a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/diodes/schottky-diodes-and-rectifiers/silicon-carbide-sic-schottky-diodes#t:parametrics">Silicon Carbide (SiC) Schottky diodes<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/diodes/schottky-diodes-and-rectifiers/low-capacitance-schottky-diodes#t:parametrics">Low capacitance Schottky diodes<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/diodes/schottky-diodes-and-rectifiers/schottky-diodes-and-rectifiers-if-lt-1-a#t:parametrics">Schottky diodes and rectifiers IF &lt; 1 A<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/diodes/schottky-diodes-and-rectifiers/trench-schottky-rectifiers#t:parametrics">Trench Schottky rectifiers<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/diodes/schottky-diodes-and-rectifiers/schottky-diodes-and-rectifiers-if-1-a#t:parametrics">Schottky diodes and rectifiers IF ≥ 1 A<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+<li>
+<a href="/products/diodes/recovery-rectifiers#t:parametrics">Recovery rectifiers<i class="x-parametric pull-right"></i></a>
+</li>
+</ul>
+<h3>ESD protection, TVS, filtering and signal conditioning</h3>
+<ul class="list-nexperia-subnav">
+<li>
+<a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/automotive-esd-protection-and-tvs#t:parametrics">Automotive ESD protection and TVS<i class="x-parametric pull-right"></i></a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/automotive-esd-protection-and-tvs/automotive-esd-protection#t:parametrics">Automotive ESD protection<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/automotive-esd-protection-and-tvs/automotive-esd-ethernet#t:parametrics">Automotive ESD Ethernet<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/automotive-esd-protection-and-tvs/lin-can-fd-flexray#t:parametrics">LIN/CAN(FD)/FlexRay<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/automotive-esd-protection-and-tvs/automotive-infotainment-serdes#t:parametrics">Automotive infotainment/SerDes<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/automotive-esd-protection-and-tvs/automotive-transient-voltage-suppressors-tvs#t:parametrics">Automotive Transient Voltage Suppressors (TVS)<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+<li>
+<a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/esd-protection#t:parametrics">ESD protection<i class="x-parametric pull-right"></i></a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/esd-protection/low-capacitance-esd-protection-for-high-speed-interfaces#t:parametrics">Low capacitance ESD protection for high-speed interfaces<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/esd-protection/general-purpose-esd-protection-devices#t:parametrics">General purpose ESD protection devices<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/esd-protection/mmbz-esd-and-surge-protection-diodes#t:parametrics">MMBZ ESD and surge protection diodes<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+<li>
+<a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/emi-solutions-with-integrated-protection#t:parametrics">EMI solutions with integrated protection<i class="x-parametric pull-right"></i></a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/emi-solutions-with-integrated-protection/common-mode-filters-with-integrated-protection#t:parametrics">Common mode filters with integrated protection<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/emi-solutions-with-integrated-protection/rc-low-pass-filters-with-integrated-protection#t:parametrics">RC low pass filters with integrated protection<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+<li>
+<a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/transient-voltage-suppressors-tvs#t:parametrics">Transient Voltage Suppressors (TVS)<i class="x-parametric pull-right"></i></a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/transient-voltage-suppressors-tvs/tvs-400-w-600-w#t:parametrics">TVS 400 W / 600 W<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/esd-protection-tvs-filtering-and-signal-conditioning/transient-voltage-suppressors-tvs/tvs-for-mobile-applications#t:parametrics">TVS for mobile applications<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+</ul>
+<h3>MOSFETs</h3>
+<ul class="list-nexperia-subnav">
+<li>
+<a href="/products/mosfets/automotive-mosfets#t:parametrics">Automotive MOSFETs<i class="x-parametric pull-right"></i></a>
+</li>
+<li>
+<a href="/products/mosfets/power-mosfets#t:parametrics">Power MOSFETs<i class="x-parametric pull-right"></i></a>
+</li>
+<li>
+<a href="/products/mosfets/small-signal-mosfets#t:parametrics">Small signal MOSFETs<i class="x-parametric pull-right"></i></a>
+</li>
+<li>
+<a href="#" class="not-active">Application Specific MOSFETs</a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/mosfets/application-specific-mosfets/asfets-for-hotswap-and-soft-start#t:parametrics">ASFETs for Hotswap and Soft Start<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/mosfets/application-specific-mosfets/asfets-for-poe-efuse-and-relay-replacement#t:parametrics">ASFETs for PoE, eFuse and relay replacement<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/mosfets/application-specific-mosfets/automotive-asfets-for-half-bridge-configurations#t:parametrics">Automotive ASFETs for half-bridge configurations<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/mosfets/application-specific-mosfets/ASFETs-for-Battery-Systems-and-eFuse#t:parametrics">ASFETs for Battery Systems and eFuse<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/mosfets/application-specific-mosfets/asfets-for-motor-control#t:parametrics">ASFETs for Motor Control<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/mosfets/application-specific-mosfets/automotive-asfets-for-airbag-applications#t:parametrics">Automotive ASFETs for Airbag Applications<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+</ul>
+<h3>SiC MOSFETs</h3>
+<h3>GaN FETs</h3>
+<ul class="list-nexperia-subnav">
+<li>
+<a href="/products/gan-fets/low-voltage-e-mode-gan-fets#t:parametrics">Low voltage e-mode GaN FETs<i class="x-parametric pull-right"></i></a>
+</li>
+<li>
+<a href="/products/gan-fets/650-v-e-mode-gan-fets#t:parametrics">650 V e-mode GaN FETs<i class="x-parametric pull-right"></i></a>
+</li>
+<li>
+</li>
+<li>
+<a href="/products/gan-fets/650-v-cascode-gan-fets#t:parametrics">650 V cascode GaN FETs<i class="x-parametric pull-right"></i></a>
+</li>
+</ul>
+<h3>IGBTs</h3>
+<h3>Analog &amp; Logic ICs</h3>
+<ul class="list-nexperia-subnav">
+<li>
+<a href="/products/analog-logic-ics/analog-switches-and-multiplexers#t:parametrics">Analog switches and multiplexers<i class="x-parametric pull-right"></i></a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/analog-logic-ics/analog-switches-and-multiplexers/analog-switches#t:parametrics">Analog switches<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/analog-logic-ics/analog-switches-and-multiplexers/bus-switches#t:parametrics">Bus switches<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+<li>
+<a href="/products/analog-logic-ics/logic#t:parametrics">Logic<i class="x-parametric pull-right"></i></a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/analog-logic-ics/logic/automotive-logic#t:parametrics">Automotive logic<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/analog-logic-ics/logic/gates#t:parametrics">Gates<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/analog-logic-ics/logic/buffers-inverters-transceivers#t:parametrics">Buffers / Inverters / Transceivers<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+<li>
+<a href="#" class="not-active">Isolation</a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/analog-logic-ics/isolation/transformer-drivers#t:parametrics">Transformer drivers<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+<li>
+<a href="#" class="not-active">Power Management</a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/analog-logic-ics/power-management/battery-management-ics#t:parametrics">Battery management ICs<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/analog-logic-ics/power-management/display-power-ics#t:parametrics">Display power ICs<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/analog-logic-ics/power-management/energy-harvesting-power-management-ics#t:parametrics">Energy harvesting power management ICs<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+<li>
+<a href="/products/analog-logic-ics/voltage-translators-level-shifters#t:parametrics">Voltage translators (level-shifters)<i class="x-parametric pull-right"></i></a>
+</li>
+<li>
+<a href="#" class="not-active">Interface</a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/analog-logic-ics/interface/i2c-general-purpose-i-o-gpio#t:parametrics">I²C General-Purpose I/O (GPIO)<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+</ul>
+<h3>Automotive qualified products (AEC-Q100/Q101)</h3>
+<ul class="list-nexperia-subnav">
+<li>
+<a href="#" class="not-active">Automotive bipolar transistors</a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-bipolar-transistors/resistor-equipped-transistors-rets#t:parametrics">Resistor-Equipped Transistors (RETs)<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-bipolar-transistors/automotive-3-terminal-adjustable-shunt-regulators#t:parametrics">Automotive 3-terminal adjustable shunt regulators<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+<li>
+<a href="#" class="not-active">Automotive diodes</a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-diodes/automotive-zener-diodes#t:parametrics">Automotive Zener diodes<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-diodes/automotive-switching-diodes#t:parametrics">Automotive switching diodes<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-diodes/automotive-schottky-diodes-and-rectifiers#t:parametrics">Automotive Schottky diodes and rectifiers<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-diodes/automotive-recovery-rectifiers#t:parametrics">Automotive recovery rectifiers<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+<li>
+<a href="/products/automotive-qualified-products-aec-q100-q101/automotive-esd-protection-and-tvs#t:parametrics">Automotive ESD protection and TVS<i class="x-parametric pull-right"></i></a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-esd-protection-and-tvs/automotive-esd-protection#t:parametrics">Automotive ESD protection<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-esd-protection-and-tvs/automotive-esd-ethernet#t:parametrics">Automotive ESD Ethernet<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-esd-protection-and-tvs/lin-can-fd-flexray#t:parametrics">LIN/CAN(FD)/FlexRay<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-esd-protection-and-tvs/automotive-infotainment-serdes#t:parametrics">Automotive infotainment/SerDes<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-esd-protection-and-tvs/automotive-transient-voltage-suppressors-tvs#t:parametrics">Automotive Transient Voltage Suppressors (TVS)<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+<li>
+<a href="/products/automotive-qualified-products-aec-q100-q101/automotive-mosfets0#t:parametrics">Automotive MOSFETs<i class="x-parametric pull-right"></i></a>
+</li>
+<li>
+<a href="/products/automotive-qualified-products-aec-q100-q101/automotive-logic#t:parametrics">Automotive logic<i class="x-parametric pull-right"></i></a>
+<ul class="list-nexperia-subnav">
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-logic/buffers-drivers-transceivers#t:parametrics">Buffers / drivers / transceivers<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-logic/counters-frequency-dividers#t:parametrics">Counters / frequency dividers<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-logic/flip-flops-latches-registers#t:parametrics">Flip-flops / latches / registers<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-logic/gates#t:parametrics">Gates<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-logic/logic-voltage-translators#t:parametrics">Logic voltage translators<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-logic/switches-multiplexers-de-multiplexers#t:parametrics">Switches / multiplexers / de-multiplexers<i class="x-parametric pull-right"></i></a></li>
+<li><a href="/products/automotive-qualified-products-aec-q100-q101/automotive-logic/automotive-specialty-logic#t:parametrics">Automotive specialty logic<i class="x-parametric pull-right"></i></a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</nex-search-bar>
+</div>
+<section class="section-header">
+</section>
+<div id="breadcrumb-container">
+<div class="container">
+<div class="row">
+<div class="col-md-12">
+<ol class="breadcrumb" vocab="http://schema.org/" typeof="BreadcrumbList">
+<li property="itemListElement" typeof="ListItem">
+<a property="item" typeof="WebPage" href="/">
+<span property="name">Home</span>
+</a>
+<meta property="position" content="1">
+</li>
+<li property="itemListElement" typeof="ListItem">
+<a property="item" typeof="WebPage" href="/404">
+<span property="name">404 page</span>
+</a>
+<meta property="position" content="2">
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<div id="preferenceReminderModal" data-user="anonymous" data-edit="false" class="modal" tabindex="-1" role="dialog">
+<div class="modal-dialog" role="document">
+<div class="modal-content">
+<div class="modal-header">
+<h5 class="modal-title"><b>Preference settings under My Nexperia</b></h5>
+<a href="#" data-dismiss="modal" class="close-modal"></a>
+</div>
+<div class="modal-body">
+<p>You can change your <i>Change Notification (CN) preferences</i> in My Nexperia. These preferences set your CN view in My Nexperia and the CN emails.</p>
+<p>By default you will see all Change Notifications that are available to you.</p>
+<a class="btn btn-small btn-orange" href=/my/my-preferences>Change preferences</a>
+</div>
+</div>
+</div>
+</div>
+<nex-cart-modal id="shopping-bag-modal" size="medium"></nex-cart-modal>
+<nex-order-modal id="order-modal" size="large" shipping-cost="" pricing-enabled="true" lang="en"></nex-order-modal>
+<div class="content">
+<div class="header-404 bg-orange">
+<div class="container">
+<div class="col">
+<h1>404</h1>
+<h3>Oops... This page could not be found.</h3>
+<p class="text-404">Make sure the web address is entered correctly or use our search to find what you&#039;re looking for.</p>
+</div>
+<svg height="79" viewBox="0 0 208 79" width="208" xmlns="http://www.w3.org/2000/svg">
+<g fill="none" fill-rule="evenodd" stroke="#ffffff" transform="translate(.544744 1)">
+<g transform="translate(0 55)">
+<g stroke-linejoin="round">
+<ellipse cx="12.955256" cy="11" rx="11.5" ry="6" />
+<ellipse cx="12.955256" cy="11" rx="7.5" ry="3" />
+<path
+d="m24.4552557 6c0-3.3137085-5.1487254-6-11.5-6-6.35127464 0-11.50000002 2.6862915-11.50000002 6" />
+</g>
+<path d="m1.455256 11v-5.341828" />
+<path d="m24.455256 11v-5.341828" />
+</g>
+<circle cx="170" cy="61" r="11.5" />
+<circle cx="170" cy="61" r="7.5" />
+<g transform="matrix(.99026807 -.1391731 .1391731 .99026807 42.409204 29.949895)">
+<path
+d="m23.4271428 46.184585-8.5021985-3.3130991-3.3296232-4.5026769-6.51459532-1.8366805v-3.7898383h1.50884119v-4.6900814l-3.32050905-1.4739462-3.26905792-11.7256419 3.26905792-9.8526207 15.20877818 8.454835h9.7694821l1.7526818 1.545165 22.9194002-6.82172582h21.7808812l31.3299176 14.88242742 44.719265 4.9915072 1.250536 6.4477912h2v5.4076305l-19.872485 2.9638554"
+stroke-linecap="round" stroke-linejoin="round" />
+<path d="m110.455256 47-6.080677-1h-49.6653685l-8.2539548 1.9361097" stroke-linecap="round"
+stroke-linejoin="round" />
+<path d="m12 20.2021519v18.1012189l11 4.6966292" />
+<path d="m6.589567 32.74229 21.817893.25771" />
+<path d="m41.6661 32.965392 73.576761.034608" />
+<path d="m6.58956697 28.0522088-.10170638-6.2548656 23.51213941-6.7973432"
+stroke-linejoin="round" />
+<path d="m148 28-2.182933 14.9386342-12.203445 3.0122122" stroke-linecap="round"
+stroke-linejoin="round" />
+<path d="m106 23-10 20" />
+<path d="m110 43h-63" />
+<path
+d="m20 13v-3.12643846l1.3581176-3.87822287v-5.99533867h4.8265289v5.99533867l1.8153535 3.87822287v3.35189076"
+stroke-linejoin="round" />
+<path d="m20 10h8" />
+<path d="m48 9.35526051v-4.35526051h10v3" stroke-linejoin="round" />
+<path d="m152 34.5h-5" />
+<path
+d="m16 40 5.0410763-9.399932c.7149433-1.6875053 2.6294573-2.5312579 5.7435419-2.5312579h14.4027666c3.5563201.1532098 5.6251246-1.2530446 6.2064134-4.2187633.5812889-2.9657187 1.4500228-7.9157343 2.6062018-14.8500468" />
+<path
+d="m53.1179597 8-.1179597 15.7331731c.7220741 4.9919872 3.171674 9.2548077 7.3487998 12.7884615 4.1771258 3.5336539 6.7275259 5.693109 7.6512002 6.4783654" />
+<path
+d="m133.674366 45.7883343c.212918-.8947766.325634-1.8283923.325634-2.7883343 0-6.627417-5.372583-12-12-12s-12 5.372583-12 12c0 1.7253016.219858 2.4236788.455256 4"
+stroke-linecap="round" />
+<path
+d="m46.4552557 47.9361097c.4043843-1.202232.5447443-3.597581.5447443-4.9361097 0-6.627417-5.372583-12-12-12s-12 5.372583-12 12c0 .6932667.0587889 1.3728025.1716533 2.0338941.0666365.3903164.152123.7742034.2554895 1.1506909"
+stroke-linecap="round" />
+<g stroke-linejoin="round">
+<path d="m16 23 28-8-1.5430773 8z" />
+<path
+d="m57.0002205 13.6931632v8.3068368h38.9997795l-17.5635886-8.3068368c-1.5909576-.7518985-2.7887544-1.2101615-3.5933903-1.3747891-.3546197-.0725548-1.567379-.2531895-1.9076088-.2817735-.218246-.0183357-9.793803-.0722817-14.6305208 0-.8812354.0131695-1.3161257.565357-1.304671 1.6565626z" />
+<path d="m138 35v3l5-.2400735v-2.7599265z" />
+</g>
+<path d="m106 23 42-9.774548" />
+<path d="m144.294123 27.5-1.294123-12.5" stroke-width=".5" />
+</g>
+<g id="bubbles" stroke-width=".7">
+<circle id="bubble1" cx="198.455256" cy="26" r="2" />
+<circle id="bubble2" cx="202.955256" cy="18.5" r="2.5" />
+<circle id="bubble3" cx="196.455256" cy="13" r="3" />
+<circle id="bubble4" cx="202.455256" cy="4" r="4" />
+</g>
+</g>
+</svg>
+</div>
+</div>
+<div class="search-suggestions">
+<div class="container" id="search-404">
+<div class="search__form-wrapper">
+<div class="search__form">
+<ul class="search__placeholders">
+<li>16,000+ products</li>
+<li>6,000 automotive products</li>
+<li>300+ packages</li>
+<li>21,000 documents</li>
+<li>100+ jobs</li>
+<li>other information</li>
+</ul>
+<form action="/search">
+<div class="search__field">
+<input type="text" id="search__input" name="q" v-model="q" placeholder="I'm searching for..." @focus="focusSet = true" @blur="focusSet = false" autocomplete="off" />
+<i class="x-search" @click="submitForm()"></i>
+<div class="search__placeholder" v-show="!focusSet">
+<div class="search__placeholder-pre" data-pre="Search "></div>
+<div class="search__placeholder-text"></div>
+</div>
+</div>
+</form>
+</div>
+</div>
+<h3>Or were you looking for:</h3>
+<div><ul>
+<li><a href="/about/news-events">Latest Nexperia news</a></li>
+<li><a href="/shop">New Product introductions</a></li>
+<li><a href="/products/automotive-qualified-products-aec-q100-q101">Automotive Qualified products</a></li>
+<li><a href="/documentation-center">Documentation</a></li>
+</ul>
+</div>
+</div>
+</div> </div>
+<div id="viewport-scroll" class="hidden-print">
+<span class="up"></span>
+<span class="down"></span>
+</div>
+<footer class="footer">
+<div class="container">
+<div class="footer__intro">
+<span class="tagline">Efficiency wins</span>
+<div class="social">
+<ul>
+<li>
+<a title="Twitter" href="https://twitter.com/TeamNexperia" target="_blank">
+<span class="n-x"></span>
+</a>
+</li>
+<li>
+<a title="Linkedin" href="https://www.linkedin.com/company/15183110" target="_blank">
+<span class="n-linkedin"></span>
+</a>
+</li>
+<li>
+<a title="Facebook" href="https://www.facebook.com/TeamNexperia" target="_blank">
+<span class="n-facebook"></span>
+</a>
+</li>
+<li>
+<a title="Instagram" href="https://www.instagram.com/TeamNexperia" target="_blank">
+<span class="n-instagram"></span>
+</a>
+</li>
+<li>
+<a title="Youtube" href="https://www.youtube.com/channel/UCMH_oNnBpVkTd5CIh1mFntg" target="_blank">
+<span class="n-youtube"></span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="footer__columns">
+<div class="footer__column">
+<h3 class="list-title">Products</h3>
+<ul class="list-unstyled">
+<li>
+<a href="/products/bipolar-transistors">Bipolar transistors</a>
+</li>
+<li>
+<a href="/products/diodes">Diodes</a>
+</li>
+<li>
+<a href="/products/esd-protection-tvs-filtering-and-signal-conditioning">ESD protection, TVS, signal conditioning</a>
+</li>
+<li>
+<a href="/products/mosfets">MOSFETs</a>
+</li>
+<li>
+<a href="/products/sic-mosfets">SiC MOSFETs</a>
+</li>
+<li>
+<a href="/products/gan-fets">GaN FETs</a>
+</li>
+<li>
+<a href="/products/igbt-discretes">IGBTs</a>
+</li>
+<li>
+<a href="/products/analog-logic-ics">Analog & Logic ICs</a>
+</li>
+<li>
+<a href="/products/automotive-qualified-products-aec-q100-q101">Automotive</a>
+</li>
+</ul>
+</div>
+<div class="footer__column">
+</div>
+<div class="footer__column">
+</div>
+</div>
+</div>
+<div class="footer__sublinks">
+<div class="container">
+</div>
+</div>
+</footer>
+</nex-migration-host>
+</nex-i18n-host>
+<script src="/.resources/nexperia/webresources/js/main-a3159ace.js" type="module"></script>
+<script src="/.resources/nexperia-theme/scripts/jquery.min~2025-09-18-06-52-55-000~cache.js" type="text/javascript"></script>
+<script src="/.resources/nexperia-theme/scripts/bootstrap.min~2025-09-18-06-52-55-000~cache.js" type="text/javascript"></script>
+<script src="/.resources/nexperia-theme/scripts/bootstrap-datepicker.min~2025-09-18-06-52-55-000~cache.js" type="text/javascript"></script>
+<script src="/.resources/nexperia-theme/scripts/bootstrap-select.min~2025-09-18-06-52-55-000~cache.js" type="text/javascript"></script>
+<script src="/.resources/nexperia-theme/scripts/gsap.min~2025-09-18-06-52-55-000~cache.js" type="text/javascript"></script>
+<script src="/.resources/nexperia-theme/scripts/vueLibs.min~2025-09-18-06-52-56-000~cache.js" type="text/javascript"></script>
+<script src="/.resources/nexperia-theme/scripts/vueApp.min~2025-09-18-11-00-27-000~cache.js" type="text/javascript"></script>
+<script src="/.resources/nexperia-theme/scripts/main.min~2025-09-18-11-00-27-000~cache.js" type="text/javascript"></script>
+</body>
+</html>

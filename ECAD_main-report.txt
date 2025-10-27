@@ -1,0 +1,152 @@
+# PCB
+
+Board size: 55.5x49.5 mm (2.19x1.95 inches)
+
+- This is the size of the rectangle that contains the board
+- Thickness: 1.5 mm (59 mils)
+- Material: FR4
+- Finish: None
+- Layers: 4
+- Copper thickness: 35 µm
+
+Solder mask: TOP / BOTTOM
+
+- Color: Green
+
+Silk screen: TOP / BOTTOM
+
+- Color: White
+
+
+Stackup:
+
+| Name                 | Type                 | Color            | Thickness [µm]| Material        | Er        | Loss tan     |
+|----------------------|----------------------|------------------|---------------|-----------------|-----------|--------------|
+| F.SilkS              | Top Silk Screen      |                  |               |                 |           |              |
+| F.Paste              | Top Solder Paste     |                  |               |                 |           |              |
+| F.Mask               | Top Solder Mask      |                  |            10 |                 |           |              |
+| F.Cu                 | copper               |                  |            35 |                 |           |              |
+| dielectric 1         | prepreg              |                  |           100 | FR4             |       4.5 |        0.020 |
+| In1.Cu               | copper               |                  |            35 |                 |           |              |
+| dielectric 2         | core                 |                  |          1140 | FR4             |       4.5 |        0.020 |
+| In2.Cu               | copper               |                  |            35 |                 |           |              |
+| dielectric 3         | prepreg              |                  |           100 | FR4             |       4.5 |        0.020 |
+| B.Cu                 | copper               |                  |            35 |                 |           |              |
+| B.Mask               | Bottom Solder Mask   |                  |            10 |                 |           |              |
+| B.Paste              | Bottom Solder Paste  |                  |               |                 |           |              |
+| B.SilkS              | Bottom Silk Screen   |                  |               |                 |           |              |
+
+# Important sizes
+
+Clearance: 0.1 mm (4 mils)
+
+Track width: 0.2 mm (8 mils)
+
+- By design rules: 0.0 mm (0 mils)
+
+Drill: 0.4 mm (16 mils)
+
+- Vias: 0.4 mm (16 mils) [Design: 0.4 mm (16 mils)]
+- Pads: 0.9 mm (35 mils)
+- The above values are real drill sizes, they add 0.1 mm (4 mils) to plated holes (PTH)
+
+Via: 0.6/0.3 mm (24/12 mils)
+
+- By design rules: 0.1/0.3 mm (4/12 mils)
+- Micro via: yes [0.15/0.1 mm (6/4 mils)]
+- Buried/blind via: yes
+- Total: 23 (thru: 23 buried/blind: 0 micro: 0)
+
+Outer Annular Ring: 0.1 mm (4 mils)
+
+- By design rules: 0.3 mm (12 mils)
+
+Eurocircuits class: 8C
+- Using min drill 0.35 mm for an OAR of 0.13 mm
+
+
+# General stats
+
+Components count: (SMD/THT)
+
+- Top: 25/8 (SMD + THT)
+- Bottom: 8/0 (SMD)
+
+Defined tracks:
+
+
+Used tracks:
+
+- 0.2 mm (8 mils) (129) defined: no
+- 0.3 mm (12 mils) (60) defined: no
+
+Defined vias:
+
+
+Used vias:
+
+- 0.6/0.3 mm (24/12 mils) (Count: 2, Aspect: 2.5 A) defined: no
+- 0.8/0.3 mm (31/12 mils) (Count: 21, Aspect: 1.9 A) defined: no
+
+Holes (excluding vias):
+
+- 0.8 mm (31 mils) (2)
+- 1.0 mm (39 mils) (4)
+- 1.1 mm (43 mils) (4)
+- 1.5 mm (59 mils) (2)
+- 1.6 mm (63 mils) (1)
+- 1.75 mm (69 mils) (2)
+
+Oval holes:
+
+- 1.5x4.02 mm (59x158 mils) (2)
+
+Drill tools (including vias and computing adjusts and rounding):
+
+- 0.4 mm (16 mils) (23)
+- 0.9 mm (35 mils) (2)
+- 1.1 mm (43 mils) (4)
+- 1.2 mm (47 mils) (4)
+- 1.6 mm (63 mils) (4)
+- 1.7 mm (67 mils) (1)
+- 1.85 mm (73 mils) (2)
+
+Solder paste stats:
+
+Using a paste with 87.75 % alloy, that has an specific gravity for the alloy of 7.4 g/cm³
+and 1.0 g/cm³ for the flux. This paste has an specific gravity of  4.15 g/cm³.
+
+The stencil thickness is  0.12 mm.
+
+| Side   | Pads with paste | Area [mm²] | Paste [g] |
+|--------|-----------------|------------|-----------|
+| Top    |             106 |     131.00 |      0.65 |
+| Bottom |              22 |      60.10 |      0.30 |
+| Total  |             128 |     191.10 |      0.95 |
+
+Note: this is just an approximation to the theoretical value. Margins of the solder mask and waste aren't computed.
+
+# Schematic
+
+![Schematic in SVG format](Schematic/ECAD_main-schematic.svg){ width=16.5cm height=11.7cm }
+
+
+
+# PCB Layers
+
+![PCB Front copper](PCB/SVG/ECAD_main-assembly_page_01.svg){ width=16.5cm height=11.7cm }
+
+![PCB Front soldermask (negative)](PCB/SVG/ECAD_main-assembly_page_02.svg){ width=16.5cm height=11.7cm }
+
+![PCB Bottom copper](PCB/SVG/ECAD_main-assembly_page_03.svg){ width=16.5cm height=11.7cm }
+
+![PCB Bottom courtyard area](PCB/SVG/ECAD_main-assembly_page_04.svg){ width=16.5cm height=11.7cm }
+
+![PCB Front courtyard area](PCB/SVG/ECAD_main-assembly_page_05.svg){ width=16.5cm height=11.7cm }
+
+![PCB Bottom documentation](PCB/SVG/ECAD_main-assembly_page_06.svg){ width=16.5cm height=11.7cm }
+
+![PCB Front documentation](PCB/SVG/ECAD_main-assembly_page_07.svg){ width=16.5cm height=11.7cm }
+
+![PCB Assembly](PCB/SVG/ECAD_main-assembly_page_08.svg){ width=16.5cm height=11.7cm }
+

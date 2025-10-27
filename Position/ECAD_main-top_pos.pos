@@ -1,0 +1,39 @@
+### Module positions - created on Mon 27 Oct 2025 20:25:58  ###
+### Printed by KiBot
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref   Val                Package                                                           PosX       PosY       Rot        Side  
+C1      4.7u/6.3V          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                       -16.9125   230.9125   180.0000   top   
+C3      100n/6.3V          C_0402_1005Metric                                                 -16.2500   232.6625   0.0000     top   
+C4      100n/6.3V          C_0402_1005Metric                                                 -13.2500   241.1625   90.0000    top   
+C5      100n/6.3V          C_0402_1005Metric                                                 -21.7500   244.6625   180.0000   top   
+C6      100n/6.3V          C_0402_1005Metric                                                 -25.2500   242.1625   -90.0000   top   
+C8      8p/50V             C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                       -28.2500   242.1625   0.0000     top   
+C9      8p/50V             C_0603_1608Metric_Pad1.08x0.95mm_HandSolder                       -28.2500   236.1625   0.0000     top   
+C10     100uF/50V          CP_Radial_D8.0mm_P3.50mm                                          15.7500    213.5000   90.0000    top   
+C12     22uF/25V           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                       -23.7500   221.7875   -90.0000   top   
+C13     2.2uF/10V          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                       -12.7000   230.5850   90.0000    top   
+C14     2.2uF/50V          C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                       -12.7500   226.5000   90.0000    top   
+C15     22uF/25V           C_0805_2012Metric_Pad1.18x1.45mm_HandSolder                       -11.2500   218.5000   90.0000    top   
+D1      BAT43W             D_SOD-123                                                         -9.4125    243.4125   0.0000     top   
+D2      FYLS-0603UGC       LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder                     -32.8375   224.9125   0.0000     top   
+D3      FYLS-0603URC       LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder                     -32.9625   222.9125   0.0000     top   
+D4      NSI45020T1G        SOD3716X135N                                                      -8.2500    216.7500   -90.0000   top   
+D8      FYLS-0603UGC       LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder                     -8.2500    221.2500   -90.0000   top   
+D9      K7805MT-500R4      K78xxMT-500R4                                                     -17.7500   220.2500   180.0000   top   
+F1      Fuse               Fuseholder_Cylinder-5x20mm_Stelvio-Kontek_PTF78_Horizontal_Open   -8.8000    206.0000   0.0000     top   
+F2      FSMD050-30-R       Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder                    7.2500     215.5000   180.0000   top   
+FB1     BLM18PG330SN1D     L_0603_1608Metric_Pad1.05x0.95mm_HandSolder                       -16.9125   228.9125   0.0000     top   
+FL1     CPFC805NP-100M05   CPFC805                                                           -5.7500    221.1500   0.0000     top   
+J1      DEBUG_01x04        PinHeader_1x04_P2.54mm_Vertical                                   -8.1025    246.4125   -90.0000   top   
+J2      TO_SWITCH          Samtec_HPM-02-01-x-S_Straight_1x02_Pitch5.08mm                    -15.2500   209.0450   0.0000     top   
+J3      DS-201             DS201b                                                            -21.0500   209.0000   0.0000     top   
+R1      100k               R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                       -19.7500   246.2500   -90.0000   top   
+R2      680                R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                       -29.3375   224.9125   0.0000     top   
+R3      680                R_0603_1608Metric_Pad0.98x0.95mm_HandSolder                       -29.4625   222.9125   0.0000     top   
+SW1     KLS7-TS6606-13.0   SW_PUSH_6mm_H4.3mm                                                -33.3375   227.2500   90.0000    top   
+TP3     GNDPWR             TestPoint_Loop_D2.60mm_Drill1.6mm_Beaded                          3.5000     241.5000   0.0000     top   
+U1      STM32F103C8T6      LQFP-48_7x7mm_P0.5mm                                              -19.2500   238.5000   0.0000     top   
+U2      AMS1117-3.3        SOT-223-3_TabPin2                                                 -7.0000    229.2500   0.0000     top   
+Y1      NX3225GD-8MHz      NX3225GD                                                          -27.5000   239.2500   -90.0000   top   
+## End
