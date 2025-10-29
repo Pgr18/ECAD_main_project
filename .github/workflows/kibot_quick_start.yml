@@ -53,4 +53,4 @@ jobs:
         branch: main
         folder: Generated
         repository-name: Pgr18/ECAD_main_project
-        token: ${{ secrets.TOKEN }}
+        token: ${{ secrets.GITHUB_TOKEN }}
