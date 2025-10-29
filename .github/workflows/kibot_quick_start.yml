@@ -47,10 +47,10 @@ jobs:
 #      run: |
  #       touch Generated/.nojekyll
 
-#    - name: Deploy navigate results
-#      uses: JamesIves/github-pages-deploy-action@v4
-#      with:
-#        branch: Generated
-#        folder: Generated
-#        repository-name: Pgr18/ECAD_main_project
-#        token: ${{ secrets.GITHUB_TOKEN }}
+    - name: Deploy navigate results
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        branch: main
+        folder: Generated
+        repository-name: Pgr18/ECAD_main_project
+        token: ${{ secrets.TOKEN }}
