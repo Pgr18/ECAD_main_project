@@ -34,7 +34,7 @@ jobs:
           kicad-cli pcb drc ./../ECAD_main/ECAD_main.kicad_pcb --exit-code-violations --severity-error
           kicad-cli pcb export drill --format excellon --drill-origin plot --excellon-units in --excellon-oval-format route --excellon-separate-th --output ./gerber ./../ECAD_main/ECAD_main.kicad_pcb
           kicad-cli pcb export gerbers --layers "*.Cu,*.Paste,*.Silkscreen,*.Mask,Edge.Cuts" --subtract-soldermask --exclude-value --use-drill-file-origin --no-x2 --no-netlist --output ./gerber ./../ECAD_main/ECAD_main.kicad_pcb
-          kicad-cli pcb export step --grid-origin --fill-all-vias --subst-models --no-dnp --force --output ./3D ./../ECAD_main/ECAD_main.kicad_pcb || true
+          kicad-cli pcb export step --grid-origin --fill-all-vias --subst-models --no-dnp --force --output ./3D/ECAD_main.step ./../ECAD_main/ECAD_main.kicad_pcb || true
 
           
       - name: Retrieve results
