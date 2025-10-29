@@ -30,6 +30,7 @@ jobs:
         run: |
           mkdir prod
           cd prod
+          which zip
           kicad-cli sch erc ./../ECAD_main/ECAD_main.kicad_sch --exit-code-violations --severity-error
           kicad-cli pcb drc ./../ECAD_main/ECAD_main.kicad_pcb --exit-code-violations --severity-error
           kicad-cli pcb export drill --format excellon --drill-origin plot --excellon-units in --excellon-oval-format route --excellon-separate-th --output ./gerber ./../ECAD_main/ECAD_main.kicad_pcb
