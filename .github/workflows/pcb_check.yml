@@ -25,11 +25,20 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
-
+      
       # Runs a single command using the runners shell
       - name: ERC Check
-        run: kicad-cli sch erc ./ECAD_main/ECAD_main.kicad_sch --exit-code-violations --severity-error
+        run: |
+          mkdir prod
+          cd prod
+          kicad-cli sch erc ./../ECAD_main/ECAD_main.kicad_sch --exit-code-violations --severity-error
 
       # Runs a set of commands using the runners shell
       - name: DRC Check
-        run: kicad-cli pcb drc ./ECAD_main/ECAD_main.kicad_pcb --exit-code-violations --severity-error
+        run: kicad-cli pcb drc ./../ECAD_main/ECAD_main.kicad_pcb --exit-code-violations --severity-error
+
+      - name: Retrieve results
+        uses: actions/upload-artifact@v4
+        with:
+          name: PCB_Check_Results
+          path: prod
