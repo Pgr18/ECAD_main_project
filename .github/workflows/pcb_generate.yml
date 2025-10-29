@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: PCB Check
+name: PCB Generation
 
 # Controls when the workflow will run
 on:
@@ -27,15 +27,20 @@ jobs:
       - uses: actions/checkout@v4
       
       # Runs a single command using the runners shell
-      - name: ERC and DRC Check
+      - name: PCB processing
         run: |
           mkdir prod
           cd prod
           kicad-cli sch erc ./../ECAD_main/ECAD_main.kicad_sch --exit-code-violations --severity-error
           kicad-cli pcb drc ./../ECAD_main/ECAD_main.kicad_pcb --exit-code-violations --severity-error
+          kicad-cli pcb export drill --format excellon --drill-origin plot --excellon-units in --excellon-oval-format route --excellon-separate-th --output ./gerber ./../ECAD_main/ECAD_main.kicad_pcb
+          kicad-cli pcb export gerbers --layers "*.Cu,*.Paste,*.Silkscreen,*.Mask,Edge.Cuts" --subtract-soldermask --exclude-value --use-drill-file-origin --no-x2 --no-netlist --output ./gerber ./../ECAD_main/ECAD_main.kicad_pcb
+          kicad-cli pcb export step --grid-origin --fill-all-vias --subst-models --no-dnp --force --output ./3D ./../ECAD_main/ECAD_main.kicad_pcb || true
 
+          zip -j ./../ECAD_main_gerbers.zip ./gerber/*
+          
       - name: Retrieve results
         uses: actions/upload-artifact@v4
         with:
-          name: PCB_Check_Results
+          name: PCB_Results
           path: prod
