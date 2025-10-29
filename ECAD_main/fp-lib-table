@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "zpc-lib")(type "KiCad")(uri "${KIPRJMOD}/../ECAD-libs/ECAD_lib.pretty")(options "")(descr ""))
+)
