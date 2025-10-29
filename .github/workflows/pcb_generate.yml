@@ -27,7 +27,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: test zip
         run: |
-          which zip
+          apt install zip
       # Runs a single command using the runners shell
       - name: PCB processing
         run: |
