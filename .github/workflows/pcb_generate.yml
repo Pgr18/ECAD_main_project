@@ -25,8 +25,6 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
-      - name: Install zip
-        run: apt-get install -y zip
       # Runs a single command using the runners shell
       - name: PCB processing
         run: |
@@ -38,7 +36,7 @@ jobs:
           kicad-cli pcb export gerbers --layers "*.Cu,*.Paste,*.Silkscreen,*.Mask,Edge.Cuts" --subtract-soldermask --exclude-value --use-drill-file-origin --no-x2 --no-netlist --output ./gerber ./../ECAD_main/ECAD_main.kicad_pcb
           kicad-cli pcb export step --grid-origin --fill-all-vias --subst-models --no-dnp --force --output ./3D ./../ECAD_main/ECAD_main.kicad_pcb || true
 
-          zip ./../ECAD_main_gerbers.zip ./gerber/*
+          zip ./ECAD_main_gerbers.zip ./gerber/*
           
       - name: Retrieve results
         uses: actions/upload-artifact@v4
